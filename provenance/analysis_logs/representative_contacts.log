@@ -1,0 +1,6 @@
+water_late_near_hbond_0580: SG-C28 3.47 A; NH-O22 2.73 A; NH-O22 proxy True; focus contacts 7
+ethanol20_late_far_0627: SG-C28 12.70 A; NH-O22 14.05 A; NH-O22 proxy False; focus contacts 5
+ethanol50_late_near_0709: SG-C28 4.45 A; NH-O22 5.12 A; NH-O22 proxy False; focus contacts 7
+water_late_far_0746: SG-C28 16.32 A; NH-O22 15.22 A; NH-O22 proxy False; focus contacts 4
+ethanol20_early_near_0129: SG-C28 3.95 A; NH-O22 4.91 A; NH-O22 proxy False; focus contacts 6
+Saved contact figures and tables: /storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/representative_contacts

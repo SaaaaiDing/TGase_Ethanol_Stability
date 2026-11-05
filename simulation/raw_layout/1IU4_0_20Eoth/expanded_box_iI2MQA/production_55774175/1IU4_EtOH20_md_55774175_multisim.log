@@ -1,0 +1,93 @@
+1IU4 20 percent ethanol production MD
+Job launching command:
+$SCHRODINGER/utilities/multisim -JOBNAME 1IU4_EtOH20_md_55774175 -HOST localhost -maxjob 1 -cpu 1 -m production.msj -c production.cfg -description "1IU4 20 percent ethanol production MD" equilibrated.cms -mode umbrella -o 1IU4_EtOH20_md_55774175-out.cms -lic DESMOND_GPGPU:16 -WAIT
+
+Multisim runs in the umbrella mode.
+Booting the multisim workflow engine...
+           multisim version: 4.0.0
+            mmshare version: 6.4
+                    Jobname: 1IU4_EtOH20_md_55774175
+                   Username: sqd5856
+              Main job host: p-gc-3026
+                Subjob host: p-gc-3026.2e.hpc.psu.edu
+                     Job ID: p-gc-3026-0-6ab42cd7
+            multisim script: production.msj
+       Structure input file: equilibrated.cms
+            CPUs per subjob: "1"
+             Job start time: Wed Sep 23 15:47:44 2026
+           Launch directory: /storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175
+               $SCHRODINGER: /storage/icds/RISE/sw8/schrodinger/2023-4
+               $OPLS_DIR: <empty>
+
+Parsing the multisim script file...
+
+Summary of user stages:
+  stage 1 - task
+  stage 2 - simulate, Production MD
+(2 stages in total)
+
+Workflow is started now.
+
+Stage 1 - task
+stage[1] task: Detecting system type...
+stage[1] task:   It seems a mature model system created for regular molecular dynamics simulations
+stage[1] task: Recognizing traits of system...
+stage[1] task:   (none)
+
+Stage 1 completed successfully.
+
+Stage 1 duration: 0h 0' 2"
+
+
+Stage 2 - simulate
+
+Running subjobs on hosts:
+  p-gc-3026.2e.hpc.psu.edu (Max: 1)
+Number of jobs:       1
+Max retries per job:  3
+Max allowed failures: unlimited
+Verbosity:            normal
+
+Starting JobDJ...
+
+Keep one job on driver host: False
+Smart license checking: True
+JobDJ columns:
+  C: Number of completed subjobs
+  A: Number of active subjobs (e.g., submitted, running)
+  W: Number of waiting/pending subjobs
+
+C A W | Activity  JobId  JobName  JobHost
+- - - | --------- -----------------------
+0 1 0 | launched  p-gc-3026-0-6ab42cf1 1IU4_EtOH20_md_55774175 p-gc-3026.2e.hpc.psu.edu [p-gc-3026]
+1 0 0 | finished  p-gc-3026-0-6ab42cf1 1IU4_EtOH20_md_55774175 p-gc-3026.2e.hpc.psu.edu [p-gc-3026]
+
+All jobs have completed.
+
+1 of 1 job(s) succeeded; 0 job(s) failed.
+
+
+Job("p-gc-3026-0-6ab42cf1") was successfully finished.
+  Host       : localhost
+  Launch time: Wed Sep 23 15:48:01 2026
+  Start time : Wed Sep 23 15:48:02 2026
+  End time   : Thu Sep 24 08:36:50 2026
+  Duration   : 16h 48' 48"
+  CPUs       : 1
+  CPU time   : 16h 48' 48"
+  Exit code  : 0
+  Jobname    : 1IU4_EtOH20_md_55774175
+  Stage      : 2 (simulate)
+
+Stage 2 completed successfully.
+
+Stage 2 duration: 16h 49' 10"
+
+Cleaning up files...
+
+Multisim summary (Thu Sep 24 08:36:57 2026):
+  Stage 1 completed.
+  Stage 2 completed.
+  Total duration: 16h 49' 12"
+  Total GPU time: 16h 48' 48" (used by 1 subjob(s))
+Multisim completed.

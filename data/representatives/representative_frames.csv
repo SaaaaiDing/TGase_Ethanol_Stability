@@ -1,0 +1,11 @@
+system,state,frames_in_state,frame_index_zero_based,time_ns,SG_C28_A,carbonyl_backbone_hbond_proxy,snapshot_maegz
+water,early_near,193,6,1.199988,3.3444423768313216,1,/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/representatives/water_early_near_0006.maegz
+water,late_near,368,580,115.99884,3.4737627411058885,1,/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/representatives/water_late_near_0580.maegz
+water,late_far,383,746,149.198508,16.31735581611769,0,/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/representatives/water_late_far_0746.maegz
+water,late_near_hbond,323,580,115.99884,3.4737627411058885,1,/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/representatives/water_late_near_hbond_0580.maegz
+ethanol20,early_near,226,129,25.799742000000002,3.9456783450325457,0,/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/representatives/ethanol20_early_near_0129.maegz
+ethanol20,late_near,22,269,53.799462,4.576411457628994,0,/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/representatives/ethanol20_late_near_0269.maegz
+ethanol20,late_far,729,627,125.398746,12.700347514905799,0,/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/representatives/ethanol20_late_far_0627.maegz
+ethanol50,early_near,249,130,25.999740000000003,4.101657451394116,0,/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/representatives/ethanol50_early_near_0130.maegz
+ethanol50,late_near,695,709,141.79858199999998,4.448223151038969,0,/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/representatives/ethanol50_late_near_0709.maegz
+ethanol50,late_far,56,569,113.79886200000001,5.250982016922159,0,/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/representatives/ethanol50_late_far_0569.maegz

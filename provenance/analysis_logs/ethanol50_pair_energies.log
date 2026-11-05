@@ -1,0 +1,24 @@
+System: ethanol50; frames: 201; groups: [('TYR62', 21), ('CYS64', 11), ('VAL65', 16), ('TYR75', 21), ('ARG208', 24), ('ARG238', 24), ('VAL252', 16), ('ASN253', 14), ('PHE254', 20), ('ASP255', 12), ('HIS274', 17), ('ASN276', 14), ('HIS277', 17), ('TYR278', 21), ('ZQG', 42), ('ethanol', 50256), ('water', 58245)]
+Pairs per frame: 42
+launch vrun: ['desmond', '-PROCS', '1', '-in', 'energy.cms', '-c', 'energy.cfg']
+Computed frames 0..120; 1050 energy rows total
+launch vrun: ['desmond', '-PROCS', '1', '-in', 'energy.cms', '-c', 'energy.cfg']
+Computed frames 125..245; 2100 energy rows total
+launch vrun: ['desmond', '-PROCS', '1', '-in', 'energy.cms', '-c', 'energy.cfg']
+Computed frames 250..370; 3150 energy rows total
+launch vrun: ['desmond', '-PROCS', '1', '-in', 'energy.cms', '-c', 'energy.cfg']
+Computed frames 375..495; 4200 energy rows total
+launch vrun: ['desmond', '-PROCS', '1', '-in', 'energy.cms', '-c', 'energy.cfg']
+Computed frames 500..620; 5250 energy rows total
+launch vrun: ['desmond', '-PROCS', '1', '-in', 'energy.cms', '-c', 'energy.cfg']
+Computed frames 625..745; 6300 energy rows total
+launch vrun: ['desmond', '-PROCS', '1', '-in', 'energy.cms', '-c', 'energy.cfg']
+Computed frames 750..870; 7350 energy rows total
+launch vrun: ['desmond', '-PROCS', '1', '-in', 'energy.cms', '-c', 'energy.cfg']
+Computed frames 875..995; 8400 energy rows total
+launch vrun: ['desmond', '-PROCS', '1', '-in', 'energy.cms', '-c', 'energy.cfg']
+Computed frames 1000..1000; 8442 energy rows total
+Saved: /storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol50_pair_energies_stride5.csv
+Saved: /storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol50_ligand_pair_summary_stride5.csv
+Residue-ZQG terms are pair interactions, not binding free energies or MM/GBSA decomposition.
+Water and ethanol totals contain every molecule in each group; do not compare raw totals across systems.

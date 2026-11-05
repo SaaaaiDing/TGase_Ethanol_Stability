@@ -1,0 +1,11 @@
+--- analysis/original/step10_energy_preflight.py
++++ analysis/step10_energy_preflight.py
+@@ -10,7 +10,7 @@
+ 
+ 
+ analysis_dir = Path(os.environ["ANALYSIS_DIR"]).expanduser().resolve()
+-root = analysis_dir.parent
++root = Path(os.environ.get("TGASE_DATA_ROOT", str(analysis_dir.parent))).expanduser().resolve()
+ systems = {
+     "water": root / "1IU4_0/desmond_md_job_4/1IU4_md_batch-out.cms",
+     "ethanol20": root / "1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/1IU4_EtOH20_md_55774175-out.cms",

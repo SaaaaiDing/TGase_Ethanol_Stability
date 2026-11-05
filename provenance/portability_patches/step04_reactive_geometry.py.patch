@@ -1,0 +1,11 @@
+--- analysis/original/step04_reactive_geometry.py
++++ analysis/step04_reactive_geometry.py
+@@ -10,7 +10,7 @@
+ 
+ 
+ analysis_dir = Path(os.environ["ANALYSIS_DIR"]).expanduser().resolve()
+-root = analysis_dir.parent
++root = Path(os.environ.get("TGASE_DATA_ROOT", str(analysis_dir.parent))).expanduser().resolve()
+ 
+ systems = {
+     "water": (

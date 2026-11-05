@@ -1,0 +1,42 @@
+{
+  "status": "passed",
+  "imported_files_verified": 142,
+  "key_summary_tables_reproduced": 2,
+  "trajectory_observables": [
+    {
+      "system": "water",
+      "frames": 1002,
+      "terminal_time_ns": 200.000016,
+      "dense_late_frames": 751,
+      "dense_near_frames": 368,
+      "sampled_late_near_frames": 73,
+      "sampled_near_hbond_count": 65
+    },
+    {
+      "system": "ethanol20",
+      "frames": 1002,
+      "terminal_time_ns": 200.000016,
+      "dense_late_frames": 751,
+      "dense_near_frames": 22,
+      "sampled_late_near_frames": 4,
+      "sampled_near_hbond_count": 0
+    },
+    {
+      "system": "ethanol50",
+      "frames": 1002,
+      "terminal_time_ns": 200.000016,
+      "dense_late_frames": 751,
+      "dense_near_frames": 695,
+      "sampled_late_near_frames": 136,
+      "sampled_near_hbond_count": 0
+    }
+  ],
+  "python": "3.12.10",
+  "packages": {
+    "numpy": "2.5.4",
+    "pandas": "2.3.3",
+    "matplotlib": "3.11.2",
+    "Pillow": "13.0.0"
+  },
+  "scope": "File integrity, code syntax and deposited-table consistency. No new MD, trajectory recalculation or PyMOL rerendering."
+}

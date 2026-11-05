@@ -1,0 +1,9 @@
+System: ethanol50
+Groups: [('CYS64', 11), ('VAL65', 16), ('ZQG', 42), ('ethanol', 50256), ('water', 58245)]
+Selected frame times (ns): [50.199, 51.199, 52.199, 53.199, 54.199]
+launch vrun: ['desmond', '-PROCS', '1', '-in', 'energy.cms', '-c', 'energy.cfg']
+/scratch/sqd5856/tmpghj1nf3t are kept for debugging purpose.
+Computed 5 frames
+Saved: /storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol50_energy_pilot_50_55ns.csv
+Pair energies are force-field interaction terms, not binding free energies.
+Ethanol and water totals include all solvent molecules in their groups.

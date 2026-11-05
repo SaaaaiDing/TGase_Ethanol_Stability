@@ -1,0 +1,275 @@
+{
+  "note": "Trajectory files remain on HPC. Sizes were inventoried; DTR contents were not rehashed or reanalyzed during publication.",
+  "files": [
+    {
+      "system": "water",
+      "relative_path": "1IU4_0/desmond_md_job_4/1IU4_md_batch_trj/clickme.dtr",
+      "bytes": 0,
+      "sha256": null
+    },
+    {
+      "system": "water",
+      "relative_path": "1IU4_0/desmond_md_job_4/1IU4_md_batch_trj/frame000000000",
+      "bytes": 104845312,
+      "sha256": null
+    },
+    {
+      "system": "water",
+      "relative_path": "1IU4_0/desmond_md_job_4/1IU4_md_batch_trj/frame000000001",
+      "bytes": 104845312,
+      "sha256": null
+    },
+    {
+      "system": "water",
+      "relative_path": "1IU4_0/desmond_md_job_4/1IU4_md_batch_trj/frame000000002",
+      "bytes": 104845312,
+      "sha256": null
+    },
+    {
+      "system": "water",
+      "relative_path": "1IU4_0/desmond_md_job_4/1IU4_md_batch_trj/frame000000003",
+      "bytes": 104845312,
+      "sha256": null
+    },
+    {
+      "system": "water",
+      "relative_path": "1IU4_0/desmond_md_job_4/1IU4_md_batch_trj/frame000000004",
+      "bytes": 104845312,
+      "sha256": null
+    },
+    {
+      "system": "water",
+      "relative_path": "1IU4_0/desmond_md_job_4/1IU4_md_batch_trj/frame000000005",
+      "bytes": 62672896,
+      "sha256": null
+    },
+    {
+      "system": "water",
+      "relative_path": "1IU4_0/desmond_md_job_4/1IU4_md_batch_trj/metadata",
+      "bytes": 4096,
+      "sha256": null
+    },
+    {
+      "system": "water",
+      "relative_path": "1IU4_0/desmond_md_job_4/1IU4_md_batch_trj/timekeys",
+      "bytes": 24060,
+      "sha256": null
+    },
+    {
+      "system": "water",
+      "relative_path": "1IU4_0/desmond_md_job_4/1IU4_md_batch_trj/not_hashed/.ddparams",
+      "bytes": 4,
+      "sha256": null
+    },
+    {
+      "system": "ethanol20",
+      "relative_path": "1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/production_trj/clickme.dtr",
+      "bytes": 0,
+      "sha256": null
+    },
+    {
+      "system": "ethanol20",
+      "relative_path": "1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/production_trj/frame000000000",
+      "bytes": 105172992,
+      "sha256": null
+    },
+    {
+      "system": "ethanol20",
+      "relative_path": "1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/production_trj/frame000000001",
+      "bytes": 105172992,
+      "sha256": null
+    },
+    {
+      "system": "ethanol20",
+      "relative_path": "1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/production_trj/frame000000002",
+      "bytes": 105172992,
+      "sha256": null
+    },
+    {
+      "system": "ethanol20",
+      "relative_path": "1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/production_trj/frame000000003",
+      "bytes": 105172992,
+      "sha256": null
+    },
+    {
+      "system": "ethanol20",
+      "relative_path": "1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/production_trj/frame000000004",
+      "bytes": 105172992,
+      "sha256": null
+    },
+    {
+      "system": "ethanol20",
+      "relative_path": "1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/production_trj/frame000000005",
+      "bytes": 105172992,
+      "sha256": null
+    },
+    {
+      "system": "ethanol20",
+      "relative_path": "1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/production_trj/frame000000006",
+      "bytes": 105172992,
+      "sha256": null
+    },
+    {
+      "system": "ethanol20",
+      "relative_path": "1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/production_trj/frame000000007",
+      "bytes": 105172992,
+      "sha256": null
+    },
+    {
+      "system": "ethanol20",
+      "relative_path": "1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/production_trj/frame000000008",
+      "bytes": 105172992,
+      "sha256": null
+    },
+    {
+      "system": "ethanol20",
+      "relative_path": "1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/production_trj/frame000000009",
+      "bytes": 105172992,
+      "sha256": null
+    },
+    {
+      "system": "ethanol20",
+      "relative_path": "1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/production_trj/frame000000010",
+      "bytes": 105172992,
+      "sha256": null
+    },
+    {
+      "system": "ethanol20",
+      "relative_path": "1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/production_trj/frame000000011",
+      "bytes": 105172992,
+      "sha256": null
+    },
+    {
+      "system": "ethanol20",
+      "relative_path": "1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/production_trj/frame000000012",
+      "bytes": 38952960,
+      "sha256": null
+    },
+    {
+      "system": "ethanol20",
+      "relative_path": "1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/production_trj/metadata",
+      "bytes": 4096,
+      "sha256": null
+    },
+    {
+      "system": "ethanol20",
+      "relative_path": "1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/production_trj/timekeys",
+      "bytes": 24060,
+      "sha256": null
+    },
+    {
+      "system": "ethanol20",
+      "relative_path": "1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/production_trj/not_hashed/.ddparams",
+      "bytes": 4,
+      "sha256": null
+    },
+    {
+      "system": "ethanol50",
+      "relative_path": "1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/production_trj/clickme.dtr",
+      "bytes": 0,
+      "sha256": null
+    },
+    {
+      "system": "ethanol50",
+      "relative_path": "1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/production_trj/frame000000000",
+      "bytes": 103972864,
+      "sha256": null
+    },
+    {
+      "system": "ethanol50",
+      "relative_path": "1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/production_trj/frame000000001",
+      "bytes": 103972864,
+      "sha256": null
+    },
+    {
+      "system": "ethanol50",
+      "relative_path": "1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/production_trj/frame000000002",
+      "bytes": 103972864,
+      "sha256": null
+    },
+    {
+      "system": "ethanol50",
+      "relative_path": "1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/production_trj/frame000000003",
+      "bytes": 103972864,
+      "sha256": null
+    },
+    {
+      "system": "ethanol50",
+      "relative_path": "1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/production_trj/frame000000004",
+      "bytes": 103972864,
+      "sha256": null
+    },
+    {
+      "system": "ethanol50",
+      "relative_path": "1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/production_trj/frame000000005",
+      "bytes": 103972864,
+      "sha256": null
+    },
+    {
+      "system": "ethanol50",
+      "relative_path": "1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/production_trj/frame000000006",
+      "bytes": 103972864,
+      "sha256": null
+    },
+    {
+      "system": "ethanol50",
+      "relative_path": "1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/production_trj/frame000000007",
+      "bytes": 103972864,
+      "sha256": null
+    },
+    {
+      "system": "ethanol50",
+      "relative_path": "1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/production_trj/frame000000008",
+      "bytes": 103972864,
+      "sha256": null
+    },
+    {
+      "system": "ethanol50",
+      "relative_path": "1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/production_trj/frame000000009",
+      "bytes": 103972864,
+      "sha256": null
+    },
+    {
+      "system": "ethanol50",
+      "relative_path": "1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/production_trj/frame000000010",
+      "bytes": 103972864,
+      "sha256": null
+    },
+    {
+      "system": "ethanol50",
+      "relative_path": "1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/production_trj/frame000000011",
+      "bytes": 103972864,
+      "sha256": null
+    },
+    {
+      "system": "ethanol50",
+      "relative_path": "1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/production_trj/frame000000012",
+      "bytes": 103972864,
+      "sha256": null
+    },
+    {
+      "system": "ethanol50",
+      "relative_path": "1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/production_trj/frame000000013",
+      "bytes": 19152896,
+      "sha256": null
+    },
+    {
+      "system": "ethanol50",
+      "relative_path": "1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/production_trj/metadata",
+      "bytes": 4096,
+      "sha256": null
+    },
+    {
+      "system": "ethanol50",
+      "relative_path": "1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/production_trj/timekeys",
+      "bytes": 24060,
+      "sha256": null
+    },
+    {
+      "system": "ethanol50",
+      "relative_path": "1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/production_trj/not_hashed/.ddparams",
+      "bytes": 4,
+      "sha256": null
+    }
+  ]
+}

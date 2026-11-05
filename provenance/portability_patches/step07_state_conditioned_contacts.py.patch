@@ -1,0 +1,11 @@
+--- analysis/original/step07_state_conditioned_contacts.py
++++ analysis/step07_state_conditioned_contacts.py
+@@ -10,7 +10,7 @@
+ 
+ 
+ analysis_dir = Path(os.environ["ANALYSIS_DIR"]).expanduser().resolve()
+-root = analysis_dir.parent
++root = Path(os.environ.get("TGASE_DATA_ROOT", str(analysis_dir.parent))).expanduser().resolve()
+ contact_cutoff_A = 4.5
+ near_cutoff_A = 5.0
+ 

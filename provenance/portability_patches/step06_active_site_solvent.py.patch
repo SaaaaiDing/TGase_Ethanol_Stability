@@ -1,0 +1,11 @@
+--- analysis/original/step06_active_site_solvent.py
++++ analysis/step06_active_site_solvent.py
+@@ -10,7 +10,7 @@
+ 
+ 
+ analysis_dir = Path(os.environ["ANALYSIS_DIR"]).expanduser().resolve()
+-root = analysis_dir.parent
++root = Path(os.environ.get("TGASE_DATA_ROOT", str(analysis_dir.parent))).expanduser().resolve()
+ radii = (4, 6, 8)
+ systems = {
+     "water": (

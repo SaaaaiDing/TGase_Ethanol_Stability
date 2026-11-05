@@ -1,0 +1,11 @@
+--- analysis/original/step12_desmond_pair_energies.py
++++ analysis/step12_desmond_pair_energies.py
+@@ -108,7 +108,7 @@
+ 
+     analysis_dir = Path(os.environ["ANALYSIS_DIR"]).expanduser().resolve()
+     paths = SYSTEMS[args.system]
+-    cms_path, trj_path, cfg_path = (analysis_dir.parent / x for x in paths[:3])
++    cms_path, trj_path, cfg_path = (Path(os.environ.get("TGASE_DATA_ROOT", str(analysis_dir.parent))) / x for x in paths[:3])
+     ethanol_count, water_count = paths[3:]
+     ref_path = analysis_dir / f"{args.system}_carbonyl_backbone_hbonds.csv"
+     for path in (cms_path, trj_path, cfg_path, ref_path):

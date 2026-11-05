@@ -1,0 +1,11 @@
+--- analysis/original/step08_carbonyl_backbone_hbonds.py
++++ analysis/step08_carbonyl_backbone_hbonds.py
+@@ -10,7 +10,7 @@
+ 
+ 
+ analysis_dir = Path(os.environ["ANALYSIS_DIR"]).expanduser().resolve()
+-root = analysis_dir.parent
++root = Path(os.environ.get("TGASE_DATA_ROOT", str(analysis_dir.parent))).expanduser().resolve()
+ systems = {
+     "water": (
+         root / "1IU4_0/desmond_md_job_4/1IU4_md_batch-out.cms",

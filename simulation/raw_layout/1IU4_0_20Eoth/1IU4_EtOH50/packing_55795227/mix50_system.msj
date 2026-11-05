@@ -1,0 +1,10 @@
+task { task = "desmond:auto"  }
+
+assign_forcefield {
+           assign_is_infinite = True
+           fail_on_lewis_failure = True
+           forcefield = OPLS_2005
+           hydrogen_mass_repartition = False
+           water = SPC
+           compress = "" }
+

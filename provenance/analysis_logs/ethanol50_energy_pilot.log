@@ -1,0 +1,8 @@
+System: ethanol50
+Groups: [('CYS64', 11), ('VAL65', 16), ('ZQG', 42), ('ethanol', 50256), ('water', 58245)]
+Time window: 50-55 ns, 1 ns interval
+launch vrun: ['desmond', '-PROCS', '1', '-in', 'energy.cms', '-c', 'energy.cfg']
+Traceback (most recent call last):
+  File "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/step11_desmond_energy_pilot.py", line 73, in <module>
+    times, components = energygroup.get_energies(
+ValueError: not enough values to unpack (expected 2, got 0)

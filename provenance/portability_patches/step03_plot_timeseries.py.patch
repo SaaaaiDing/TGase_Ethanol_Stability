@@ -1,0 +1,19 @@
+--- analysis/original/step03_plot_timeseries.py
++++ analysis/step03_plot_timeseries.py
+@@ -1,3 +1,4 @@
++import os
+ from pathlib import Path
+ 
+ import matplotlib
+@@ -5,10 +6,7 @@
+ import matplotlib.pyplot as plt
+ import numpy as np
+ 
+-ROOT = Path(
+-    "/storage/home/sqd5856/Desktop/default/HanLiu/prep_files/yaml/1IU4/"
+-    "boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50"
+-)
++ROOT = Path(os.environ["ANALYSIS_DIR"]).expanduser().resolve()
+ 
+ CONDITIONS = {
+     "water": ("Water", "#333333"),

@@ -1,0 +1,7 @@
+{
+  "temperature_K": 298.0,
+  "pressure_bar": 1.01325,
+  "production_ns": 200.0,
+  "cutoff_A": 9.0,
+  "reference_cfg": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0/desmond_md_job_1/desmond_md_job_1.cfg"
+}

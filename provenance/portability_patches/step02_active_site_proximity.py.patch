@@ -1,0 +1,20 @@
+--- analysis/original/step02_active_site_proximity.py
++++ analysis/step02_active_site_proximity.py
+@@ -1,14 +1,12 @@
++import os
+ import csv
+ from pathlib import Path
+ 
+ import numpy as np
+ from schrodinger.application.desmond.packages import topo, traj
+ 
+-ROOT = Path(
+-    "/storage/home/sqd5856/Desktop/default/HanLiu/prep_files/yaml/1IU4/"
+-    "boltz_results_1IU4/predictions/1IU4"
+-)
+-OUTPUT = ROOT / "md_analysis_0_20_50"
++ROOT = Path(os.environ["TGASE_DATA_ROOT"]).expanduser().resolve()
++OUTPUT = Path(os.environ["ANALYSIS_DIR"]).expanduser().resolve()
+ 
+ SYSTEMS = {
+     "water": (

@@ -1,0 +1,328 @@
+Molecular Dynamics
+Job launching command:
+$SCHRODINGER/utilities/multisim -JOBNAME 1IU4_md_batch -HOST localhost -maxjob 1 -cpu 1 -m desmond_md_job_4.msj -c desmond_md_job_4.cfg -description "Molecular Dynamics" desmond_md_job_4.cms -mode umbrella -o 1IU4_md_batch-out.cms -lic DESMOND_GPGPU:16 -WAIT
+
+Multisim runs in the umbrella mode.
+Booting the multisim workflow engine...
+           multisim version: 4.0.0
+            mmshare version: 6.4
+                    Jobname: 1IU4_md_batch
+                   Username: sqd5856
+              Main job host: p-gc-3023
+                Subjob host: p-gc-3023.2e.hpc.psu.edu
+                     Job ID: p-gc-3023-0-6ab2bdf6
+            multisim script: desmond_md_job_4.msj
+       Structure input file: desmond_md_job_4.cms
+            CPUs per subjob: "1"
+             Job start time: Tue Sep 22 13:42:24 2026
+           Launch directory: /storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0/desmond_md_job_4
+               $SCHRODINGER: /storage/icds/RISE/sw8/schrodinger/2023-4
+               $OPLS_DIR: <empty>
+
+Parsing the multisim script file...
+
+Summary of user stages:
+  stage 1 - task
+  stage 2 - simulate, Brownian Dynamics NVT, T = 10 K, small timesteps, and restraints on solute heavy atoms, 100ps
+  stage 3 - simulate, NVT, T = 10 K, small timesteps, and restraints on solute heavy atoms, 12ps
+  stage 4 - simulate, NPT, T = 10 K, and restraints on solute heavy atoms, 12ps
+  stage 5 - simulate, NPT and restraints on solute heavy atoms, 12ps
+  stage 6 - simulate, NPT and no restraints, 24ps
+  stage 7 - simulate
+(7 stages in total)
+
+Workflow is started now.
+
+Stage 1 - task
+stage[1] task: Detecting system type...
+stage[1] task:   It seems a mature model system created for regular molecular dynamics simulations
+stage[1] task: Recognizing traits of system...
+stage[1] task:   (none)
+
+Stage 1 completed successfully.
+
+Stage 1 duration: 0h 0' 1"
+
+
+Stage 2 - simulate
+
+Running subjobs on hosts:
+  p-gc-3023.2e.hpc.psu.edu (Max: 1)
+Number of jobs:       1
+Max retries per job:  3
+Max allowed failures: unlimited
+Verbosity:            normal
+
+Starting JobDJ...
+
+Keep one job on driver host: False
+Smart license checking: True
+JobDJ columns:
+  C: Number of completed subjobs
+  A: Number of active subjobs (e.g., submitted, running)
+  W: Number of waiting/pending subjobs
+
+C A W | Activity  JobId  JobName  JobHost
+- - - | --------- -----------------------
+0 1 0 | launched  p-gc-3023-0-6ab2be0e 1IU4_md_batch_2 p-gc-3023.2e.hpc.psu.edu [p-gc-3023]
+1 0 0 | finished  p-gc-3023-0-6ab2be0e 1IU4_md_batch_2 p-gc-3023.2e.hpc.psu.edu [p-gc-3023]
+
+All jobs have completed.
+
+1 of 1 job(s) succeeded; 0 job(s) failed.
+
+
+Job("p-gc-3023-0-6ab2be0e") was successfully finished.
+  Host       : localhost
+  Launch time: Tue Sep 22 13:42:38 2026
+  Start time : Tue Sep 22 13:42:39 2026
+  End time   : Tue Sep 22 13:43:32 2026
+  Duration   : 0h 0' 53"
+  CPUs       : 1
+  CPU time   : 0h 0' 53"
+  Exit code  : 0
+  Jobname    : 1IU4_md_batch_2
+  Stage      : 2 (simulate)
+
+Stage 2 completed successfully.
+
+Stage 2 duration: 0h 1' 7"
+
+
+Stage 3 - simulate
+
+Running subjobs on hosts:
+  p-gc-3023.2e.hpc.psu.edu (Max: 1)
+Number of jobs:       1
+Max retries per job:  3
+Max allowed failures: unlimited
+Verbosity:            normal
+
+Starting JobDJ...
+
+Keep one job on driver host: False
+Smart license checking: True
+JobDJ columns:
+  C: Number of completed subjobs
+  A: Number of active subjobs (e.g., submitted, running)
+  W: Number of waiting/pending subjobs
+
+C A W | Activity  JobId  JobName  JobHost
+- - - | --------- -----------------------
+0 1 0 | launched  p-gc-3023-0-6ab2be54 1IU4_md_batch_3 p-gc-3023.2e.hpc.psu.edu [p-gc-3023]
+1 0 0 | finished  p-gc-3023-0-6ab2be54 1IU4_md_batch_3 p-gc-3023.2e.hpc.psu.edu [p-gc-3023]
+
+All jobs have completed.
+
+1 of 1 job(s) succeeded; 0 job(s) failed.
+
+
+Job("p-gc-3023-0-6ab2be54") was successfully finished.
+  Host       : localhost
+  Launch time: Tue Sep 22 13:43:48 2026
+  Start time : Tue Sep 22 13:43:49 2026
+  End time   : Tue Sep 22 13:44:12 2026
+  Duration   : 0h 0' 23"
+  CPUs       : 1
+  CPU time   : 0h 0' 23"
+  Exit code  : 0
+  Jobname    : 1IU4_md_batch_3
+  Stage      : 3 (simulate)
+
+Stage 3 completed successfully.
+
+Stage 3 duration: 0h 0' 40"
+
+
+Stage 4 - simulate
+
+Running subjobs on hosts:
+  p-gc-3023.2e.hpc.psu.edu (Max: 1)
+Number of jobs:       1
+Max retries per job:  3
+Max allowed failures: unlimited
+Verbosity:            normal
+
+Starting JobDJ...
+
+Keep one job on driver host: False
+Smart license checking: True
+JobDJ columns:
+  C: Number of completed subjobs
+  A: Number of active subjobs (e.g., submitted, running)
+  W: Number of waiting/pending subjobs
+
+C A W | Activity  JobId  JobName  JobHost
+- - - | --------- -----------------------
+0 1 0 | launched  p-gc-3023-0-6ab2be7a 1IU4_md_batch_4 p-gc-3023.2e.hpc.psu.edu [p-gc-3023]
+1 0 0 | finished  p-gc-3023-0-6ab2be7a 1IU4_md_batch_4 p-gc-3023.2e.hpc.psu.edu [p-gc-3023]
+
+All jobs have completed.
+
+1 of 1 job(s) succeeded; 0 job(s) failed.
+
+
+Job("p-gc-3023-0-6ab2be7a") was successfully finished.
+  Host       : localhost
+  Launch time: Tue Sep 22 13:44:26 2026
+  Start time : Tue Sep 22 13:44:27 2026
+  End time   : Tue Sep 22 13:44:50 2026
+  Duration   : 0h 0' 23"
+  CPUs       : 1
+  CPU time   : 0h 0' 23"
+  Exit code  : 0
+  Jobname    : 1IU4_md_batch_4
+  Stage      : 4 (simulate)
+
+Stage 4 completed successfully.
+
+Stage 4 duration: 0h 0' 37"
+
+
+Stage 5 - simulate
+
+Running subjobs on hosts:
+  p-gc-3023.2e.hpc.psu.edu (Max: 1)
+Number of jobs:       1
+Max retries per job:  3
+Max allowed failures: unlimited
+Verbosity:            normal
+
+Starting JobDJ...
+
+Keep one job on driver host: False
+Smart license checking: True
+JobDJ columns:
+  C: Number of completed subjobs
+  A: Number of active subjobs (e.g., submitted, running)
+  W: Number of waiting/pending subjobs
+
+C A W | Activity  JobId  JobName  JobHost
+- - - | --------- -----------------------
+0 1 0 | launched  p-gc-3023-0-6ab2be9e 1IU4_md_batch_5 p-gc-3023.2e.hpc.psu.edu [p-gc-3023]
+1 0 0 | finished  p-gc-3023-0-6ab2be9e 1IU4_md_batch_5 p-gc-3023.2e.hpc.psu.edu [p-gc-3023]
+
+All jobs have completed.
+
+1 of 1 job(s) succeeded; 0 job(s) failed.
+
+
+Job("p-gc-3023-0-6ab2be9e") was successfully finished.
+  Host       : localhost
+  Launch time: Tue Sep 22 13:45:02 2026
+  Start time : Tue Sep 22 13:45:03 2026
+  End time   : Tue Sep 22 13:45:27 2026
+  Duration   : 0h 0' 24"
+  CPUs       : 1
+  CPU time   : 0h 0' 24"
+  Exit code  : 0
+  Jobname    : 1IU4_md_batch_5
+  Stage      : 5 (simulate)
+
+Stage 5 completed successfully.
+
+Stage 5 duration: 0h 0' 37"
+
+
+Stage 6 - simulate
+
+Running subjobs on hosts:
+  p-gc-3023.2e.hpc.psu.edu (Max: 1)
+Number of jobs:       1
+Max retries per job:  3
+Max allowed failures: unlimited
+Verbosity:            normal
+
+Starting JobDJ...
+
+Keep one job on driver host: False
+Smart license checking: True
+JobDJ columns:
+  C: Number of completed subjobs
+  A: Number of active subjobs (e.g., submitted, running)
+  W: Number of waiting/pending subjobs
+
+C A W | Activity  JobId  JobName  JobHost
+- - - | --------- -----------------------
+0 1 0 | launched  p-gc-3023-0-6ab2bec5 1IU4_md_batch_6 p-gc-3023.2e.hpc.psu.edu [p-gc-3023]
+1 0 0 | finished  p-gc-3023-0-6ab2bec5 1IU4_md_batch_6 p-gc-3023.2e.hpc.psu.edu [p-gc-3023]
+
+All jobs have completed.
+
+1 of 1 job(s) succeeded; 0 job(s) failed.
+
+
+Job("p-gc-3023-0-6ab2bec5") was successfully finished.
+  Host       : localhost
+  Launch time: Tue Sep 22 13:45:41 2026
+  Start time : Tue Sep 22 13:45:42 2026
+  End time   : Tue Sep 22 13:46:07 2026
+  Duration   : 0h 0' 25"
+  CPUs       : 1
+  CPU time   : 0h 0' 25"
+  Exit code  : 0
+  Jobname    : 1IU4_md_batch_6
+  Stage      : 6 (simulate)
+
+Stage 6 completed successfully.
+
+Stage 6 duration: 0h 0' 40"
+
+
+Stage 7 - simulate
+
+Running subjobs on hosts:
+  p-gc-3023.2e.hpc.psu.edu (Max: 1)
+Number of jobs:       1
+Max retries per job:  3
+Max allowed failures: unlimited
+Verbosity:            normal
+
+Starting JobDJ...
+
+Keep one job on driver host: False
+Smart license checking: True
+JobDJ columns:
+  C: Number of completed subjobs
+  A: Number of active subjobs (e.g., submitted, running)
+  W: Number of waiting/pending subjobs
+
+C A W | Activity  JobId  JobName  JobHost
+- - - | --------- -----------------------
+0 1 0 | launched  p-gc-3023-0-6ab2beec 1IU4_md_batch p-gc-3023.2e.hpc.psu.edu [p-gc-3023]
+1 0 0 | finished  p-gc-3023-0-6ab2beec 1IU4_md_batch p-gc-3023.2e.hpc.psu.edu [p-gc-3023]
+
+All jobs have completed.
+
+1 of 1 job(s) succeeded; 0 job(s) failed.
+
+
+Job("p-gc-3023-0-6ab2beec") was successfully finished.
+  Host       : localhost
+  Launch time: Tue Sep 22 13:46:20 2026
+  Start time : Tue Sep 22 13:46:20 2026
+  End time   : Tue Sep 22 22:40:58 2026
+  Duration   : 8h 54' 38"
+  CPUs       : 1
+  CPU time   : 8h 54' 38"
+  Exit code  : 0
+  Jobname    : 1IU4_md_batch
+  Stage      : 7 (simulate)
+
+Stage 7 completed successfully.
+
+Stage 7 duration: 8h 54' 53"
+
+Cleaning up files...
+
+Multisim summary (Tue Sep 22 22:41:03 2026):
+  Stage 1 completed.
+  Stage 2 completed.
+  Stage 3 completed.
+  Stage 4 completed.
+  Stage 5 completed.
+  Stage 6 completed.
+  Stage 7 completed.
+  Total duration: 8h 58' 38"
+  Total GPU time: 8h 57' 6" (used by 6 subjob(s))
+Multisim completed.

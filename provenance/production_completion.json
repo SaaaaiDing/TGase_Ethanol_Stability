@@ -1,0 +1,44 @@
+[
+  {
+    "system": "water",
+    "engine_log_sha256": "52ffa23ee598a3058bb01d1baab6724a75ceae4a66daf02697eadd256818d095",
+    "last_logged_time_ps": 199999.2,
+    "normal_exit": true,
+    "ethanol_molecules": 0,
+    "water_molecules": 14493,
+    "chloride_ions": 1,
+    "atoms": 48688,
+    "trajectory_relative_path": "1IU4_0/desmond_md_job_4/1IU4_md_batch_trj",
+    "trajectory_in_repository": false,
+    "ethanol_number_fraction": 0.0,
+    "production_seed": 2007
+  },
+  {
+    "system": "ethanol20",
+    "engine_log_sha256": "8ff88d30b23f17962979874c8b1ba41355f25120e1364395493a87e4208b87f8",
+    "last_logged_time_ps": 199999.2,
+    "normal_exit": true,
+    "ethanol_molecules": 2112,
+    "water_molecules": 27885,
+    "chloride_ions": 1,
+    "atoms": 107872,
+    "trajectory_relative_path": "1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/production_trj",
+    "trajectory_in_repository": false,
+    "ethanol_number_fraction": 0.0704070407040704,
+    "production_seed": 2007
+  },
+  {
+    "system": "ethanol50",
+    "engine_log_sha256": "a550fcca768967a3d75bf6e5f45497a25f63d125d52807ec7fc42d093be57a3c",
+    "last_logged_time_ps": 199999.2,
+    "normal_exit": true,
+    "ethanol_molecules": 5584,
+    "water_molecules": 19415,
+    "chloride_ions": 1,
+    "atoms": 113710,
+    "trajectory_relative_path": "1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/production_trj",
+    "trajectory_in_repository": false,
+    "ethanol_number_fraction": 0.2233689347573903,
+    "production_seed": 2007
+  }
+]

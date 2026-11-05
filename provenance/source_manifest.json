@@ -1,0 +1,1138 @@
+[
+  {
+    "published_path": "data/tables/1IU4_residue_pair_energy_comparison.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/1IU4_residue_pair_energy_comparison.csv",
+    "source_bytes": 21217,
+    "source_sha256": "444b6ebc57656cea9481d221aa58e4ac1a685b3067468926e43dd956f88f56d2",
+    "published_sha256": "444b6ebc57656cea9481d221aa58e4ac1a685b3067468926e43dd956f88f56d2",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/tables/1IU4_state_and_solvent_comparison.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/1IU4_state_and_solvent_comparison.csv",
+    "source_bytes": 1826,
+    "source_sha256": "ff920f05da552ed7388973d585ad92daa31676b24cf34d6d62266a93c74437d0",
+    "published_sha256": "ff920f05da552ed7388973d585ad92daa31676b24cf34d6d62266a93c74437d0",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/tables/Cys64_solvent_by_ZQG_state.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/Cys64_solvent_by_ZQG_state.csv",
+    "source_bytes": 1276,
+    "source_sha256": "d58ebef0380f7b905d25ac56085e211decab93a7a5ed6673c2ac218d7607ecd3",
+    "published_sha256": "d58ebef0380f7b905d25ac56085e211decab93a7a5ed6673c2ac218d7607ecd3",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/tables/Cys64_solvent_shell_summary.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/Cys64_solvent_shell_summary.csv",
+    "source_bytes": 2189,
+    "source_sha256": "4b16f47d6c2ee97a723193f55a11d5640d95cd1539b5dc78b8018674b4054e2a",
+    "published_sha256": "4b16f47d6c2ee97a723193f55a11d5640d95cd1539b5dc78b8018674b4054e2a",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/tables/ZQG_residue_contacts_by_state.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ZQG_residue_contacts_by_state.csv",
+    "source_bytes": 13638,
+    "source_sha256": "db224cc75366f4beb193cdfa7d0917c4ab112cdec58817e5a5e34e7e55ed2e81",
+    "published_sha256": "db224cc75366f4beb193cdfa7d0917c4ab112cdec58817e5a5e34e7e55ed2e81",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/tables/ethanol20_Cys64_solvent_shell.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol20_Cys64_solvent_shell.csv",
+    "source_bytes": 26653,
+    "source_sha256": "a99f4e43cbc53bba5c62f5ecdecb3b9d9188435e9ec83d9d68a92600c4ab18f9",
+    "published_sha256": "a99f4e43cbc53bba5c62f5ecdecb3b9d9188435e9ec83d9d68a92600c4ab18f9",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/tables/ethanol20_active_site_proximity.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol20_active_site_proximity.csv",
+    "source_bytes": 39892,
+    "source_sha256": "ce72db9d7b39788052b7e29bc990185773c35c82827ba21cc616552c10fc03bf",
+    "published_sha256": "ce72db9d7b39788052b7e29bc990185773c35c82827ba21cc616552c10fc03bf",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/tables/ethanol20_carbonyl_backbone_hbonds.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol20_carbonyl_backbone_hbonds.csv",
+    "source_bytes": 112747,
+    "source_sha256": "9d22af2081c04716e0d76ab9b7cf9a71a6d773f0e1c8300f08de491cd88da83a",
+    "published_sha256": "9d22af2081c04716e0d76ab9b7cf9a71a6d773f0e1c8300f08de491cd88da83a",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/tables/ethanol20_ligand_pair_summary_stride5.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol20_ligand_pair_summary_stride5.csv",
+    "source_bytes": 4970,
+    "source_sha256": "ddb346e2a081c2761e7856bce0b29118d6ead17f5fa963f5060107479dc4eb61",
+    "published_sha256": "ddb346e2a081c2761e7856bce0b29118d6ead17f5fa963f5060107479dc4eb61",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/tables/ethanol20_pair_energies_stride5.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol20_pair_energies_stride5.csv",
+    "source_bytes": 967322,
+    "source_sha256": "e63845291eb4b7cd9bb52cfc6a8918481428eacc519ab2b6bdae9b905fc922b7",
+    "published_sha256": "e63845291eb4b7cd9bb52cfc6a8918481428eacc519ab2b6bdae9b905fc922b7",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/tables/ethanol20_reactive_geometry.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol20_reactive_geometry.csv",
+    "source_bytes": 51045,
+    "source_sha256": "8c556c068506ab31c5a338a0dba55250d34341d55f19d6089a306979afc5c19b",
+    "published_sha256": "8c556c068506ab31c5a338a0dba55250d34341d55f19d6089a306979afc5c19b",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/tables/ethanol20_rmsd.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol20_rmsd.csv",
+    "source_bytes": 30253,
+    "source_sha256": "b6c7e87ff566ce681a22175171a3842c96a96847e67fd88e600e1caa37e40829",
+    "published_sha256": "b6c7e87ff566ce681a22175171a3842c96a96847e67fd88e600e1caa37e40829",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/tables/ethanol50_Cys64_solvent_shell.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol50_Cys64_solvent_shell.csv",
+    "source_bytes": 26179,
+    "source_sha256": "8773feccd571d336875d4fffe67f3724ae5d13a7c8c5bc7af0d9b9d4c43853d6",
+    "published_sha256": "8773feccd571d336875d4fffe67f3724ae5d13a7c8c5bc7af0d9b9d4c43853d6",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/tables/ethanol50_active_site_proximity.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol50_active_site_proximity.csv",
+    "source_bytes": 38618,
+    "source_sha256": "48e28ce67eafd6e0147a1461f5e10aaf7c7daa6a2539829db0a40bc64d2c65e7",
+    "published_sha256": "48e28ce67eafd6e0147a1461f5e10aaf7c7daa6a2539829db0a40bc64d2c65e7",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/tables/ethanol50_carbonyl_backbone_hbonds.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol50_carbonyl_backbone_hbonds.csv",
+    "source_bytes": 111911,
+    "source_sha256": "dd67b6dbfa9da395e925ea0ce005577b5d735ebe97ea9cf33f5a173c47fa7206",
+    "published_sha256": "dd67b6dbfa9da395e925ea0ce005577b5d735ebe97ea9cf33f5a173c47fa7206",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/tables/ethanol50_energy_pilot_50_55ns.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol50_energy_pilot_50_55ns.csv",
+    "source_bytes": 2562,
+    "source_sha256": "6ca4c57c60cea73c7519875db7a23c10a08385b2582cfd3cb4ea7b90431d1393",
+    "published_sha256": "6ca4c57c60cea73c7519875db7a23c10a08385b2582cfd3cb4ea7b90431d1393",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/tables/ethanol50_ligand_pair_summary_stride5.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol50_ligand_pair_summary_stride5.csv",
+    "source_bytes": 4980,
+    "source_sha256": "9d4b7909929bb69fc4ea485c1b6cc4a2169300ace7fb25389fbe9dfd88e19970",
+    "published_sha256": "9d4b7909929bb69fc4ea485c1b6cc4a2169300ace7fb25389fbe9dfd88e19970",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/tables/ethanol50_pair_energies_stride5.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol50_pair_energies_stride5.csv",
+    "source_bytes": 979809,
+    "source_sha256": "8994307176e0316970a30e8cfd4be0ad527d722babcf122a1fca4b0f7b732e16",
+    "published_sha256": "8994307176e0316970a30e8cfd4be0ad527d722babcf122a1fca4b0f7b732e16",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/tables/ethanol50_reactive_geometry.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol50_reactive_geometry.csv",
+    "source_bytes": 50438,
+    "source_sha256": "ab37225f6cf88a3784ab47edf4cbf56b727abbc3dbfbf62fa36300f6672fd16a",
+    "published_sha256": "ab37225f6cf88a3784ab47edf4cbf56b727abbc3dbfbf62fa36300f6672fd16a",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/tables/ethanol50_rmsd.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol50_rmsd.csv",
+    "source_bytes": 29568,
+    "source_sha256": "e3becad0767f3248d147eb1bf727952169825c4a381aff468d38850b32b61575",
+    "published_sha256": "e3becad0767f3248d147eb1bf727952169825c4a381aff468d38850b32b61575",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/tables/protein_CA_RMSF_50_200ns.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/protein_CA_RMSF_50_200ns.csv",
+    "source_bytes": 21319,
+    "source_sha256": "8df8b5461777fc5362301acbba76210d974364e96020fc64dc350d02427eb004",
+    "published_sha256": "8df8b5461777fc5362301acbba76210d974364e96020fc64dc350d02427eb004",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/tables/reactive_geometry_summary_50_200ns.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/reactive_geometry_summary_50_200ns.csv",
+    "source_bytes": 652,
+    "source_sha256": "87916e22db4f7aecd47ded42e99dc030a83c40ddc28f235f1bdde8b2a69414ef",
+    "published_sha256": "87916e22db4f7aecd47ded42e99dc030a83c40ddc28f235f1bdde8b2a69414ef",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/tables/water_Cys64_solvent_shell.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/water_Cys64_solvent_shell.csv",
+    "source_bytes": 26861,
+    "source_sha256": "b0122870bd8e7fb7aca67cfe017aff2ccf2f491446af9ecbd2f99f41fe01185a",
+    "published_sha256": "b0122870bd8e7fb7aca67cfe017aff2ccf2f491446af9ecbd2f99f41fe01185a",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/tables/water_active_site_proximity.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/water_active_site_proximity.csv",
+    "source_bytes": 39247,
+    "source_sha256": "df8324d4b949195b2de66764e2e42b4479d16191a386741dd7bd50bf7cb09453",
+    "published_sha256": "df8324d4b949195b2de66764e2e42b4479d16191a386741dd7bd50bf7cb09453",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/tables/water_carbonyl_backbone_hbonds.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/water_carbonyl_backbone_hbonds.csv",
+    "source_bytes": 112569,
+    "source_sha256": "f6e44ffe2072cc1184832287ba56f39d9f5978aff3c7833cb402d0b191a81d9a",
+    "published_sha256": "f6e44ffe2072cc1184832287ba56f39d9f5978aff3c7833cb402d0b191a81d9a",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/tables/water_ligand_pair_summary_stride5.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/water_ligand_pair_summary_stride5.csv",
+    "source_bytes": 4755,
+    "source_sha256": "a467973e987ae94f3faabefbaa23a84e8d251ab679932b8f918081e451d65268",
+    "published_sha256": "a467973e987ae94f3faabefbaa23a84e8d251ab679932b8f918081e451d65268",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/tables/water_pair_energies_stride5.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/water_pair_energies_stride5.csv",
+    "source_bytes": 615377,
+    "source_sha256": "f14d11e7c8c2863eb40e7dbef83808584f133246091e2ef560532631f3dda2e7",
+    "published_sha256": "f14d11e7c8c2863eb40e7dbef83808584f133246091e2ef560532631f3dda2e7",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/tables/water_reactive_geometry.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/water_reactive_geometry.csv",
+    "source_bytes": 50778,
+    "source_sha256": "460534c41e22e7cead666f6fc4841c86fdeafb5aee5f464881c4ec6ac9b4a5a8",
+    "published_sha256": "460534c41e22e7cead666f6fc4841c86fdeafb5aee5f464881c4ec6ac9b4a5a8",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/tables/water_rmsd.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/water_rmsd.csv",
+    "source_bytes": 29898,
+    "source_sha256": "afe750562685e5114a713db4e3681996b2ee0700535977e43bd0a91710df42f2",
+    "published_sha256": "afe750562685e5114a713db4e3681996b2ee0700535977e43bd0a91710df42f2",
+    "transformation": "none"
+  },
+  {
+    "published_path": "provenance/analysis_logs/ethanol20_pair_energies.log",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol20_pair_energies.log",
+    "source_bytes": 2022,
+    "source_sha256": "384e9cd4443e41914834ed4caecd932bddbd98b99039bc547953617014e94df4",
+    "published_sha256": "384e9cd4443e41914834ed4caecd932bddbd98b99039bc547953617014e94df4",
+    "transformation": "none"
+  },
+  {
+    "published_path": "provenance/analysis_logs/ethanol50_energy_pilot.log",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol50_energy_pilot.log",
+    "source_bytes": 548,
+    "source_sha256": "a5949aed82f72316a9259960500e1b16294858813a9e05d88ccaa05b954c48cb",
+    "published_sha256": "a5949aed82f72316a9259960500e1b16294858813a9e05d88ccaa05b954c48cb",
+    "transformation": "none"
+  },
+  {
+    "published_path": "provenance/analysis_logs/ethanol50_energy_pilot_v2.log",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol50_energy_pilot_v2.log",
+    "source_bytes": 641,
+    "source_sha256": "bb807fd7b42af1b924ffb9345b23240fcc56af6e39638e4c3ae15f20244086a1",
+    "published_sha256": "bb807fd7b42af1b924ffb9345b23240fcc56af6e39638e4c3ae15f20244086a1",
+    "transformation": "none"
+  },
+  {
+    "published_path": "provenance/analysis_logs/ethanol50_pair_energies.log",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol50_pair_energies.log",
+    "source_bytes": 2022,
+    "source_sha256": "27552a60ac5a673116c3d704b28799495ec64be495572b49cd6e786edd71c8e6",
+    "published_sha256": "27552a60ac5a673116c3d704b28799495ec64be495572b49cd6e786edd71c8e6",
+    "transformation": "none"
+  },
+  {
+    "published_path": "provenance/analysis_logs/representative_contacts.log",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/representative_contacts.log",
+    "source_bytes": 638,
+    "source_sha256": "e305c63a8fdd186d25579224aafcc247e9e1d0d2e16201b6e4ea6f79f6cb57fb",
+    "published_sha256": "e305c63a8fdd186d25579224aafcc247e9e1d0d2e16201b6e4ea6f79f6cb57fb",
+    "transformation": "none"
+  },
+  {
+    "published_path": "provenance/analysis_logs/water_pair_energies.log",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/water_pair_energies.log",
+    "source_bytes": 1989,
+    "source_sha256": "13481ce7ffc34725ed8862ad6cc0272f9ef61026fc947e8c5361e2bc2f13bb70",
+    "published_sha256": "13481ce7ffc34725ed8862ad6cc0272f9ef61026fc947e8c5361e2bc2f13bb70",
+    "transformation": "none"
+  },
+  {
+    "published_path": "analysis/original/make_1IU4_md_comparison.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/make_1IU4_md_comparison.py",
+    "source_bytes": 14252,
+    "source_sha256": "c882e724c1bcaa085f5f67356fc9171b48be009b7fff71835220669924ca9afd",
+    "published_sha256": "c882e724c1bcaa085f5f67356fc9171b48be009b7fff71835220669924ca9afd",
+    "transformation": "none"
+  },
+  {
+    "published_path": "analysis/make_1IU4_md_comparison.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/make_1IU4_md_comparison.py",
+    "source_bytes": 14252,
+    "source_sha256": "c882e724c1bcaa085f5f67356fc9171b48be009b7fff71835220669924ca9afd",
+    "published_sha256": "c882e724c1bcaa085f5f67356fc9171b48be009b7fff71835220669924ca9afd",
+    "transformation": "none"
+  },
+  {
+    "published_path": "analysis/original/render_1IU4_pymol.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/render_1IU4_pymol.py",
+    "source_bytes": 8129,
+    "source_sha256": "a4023a397b06a24ac78dca370dfcb22288c1fd6f36141274fe383e7ae5631c18",
+    "published_sha256": "a4023a397b06a24ac78dca370dfcb22288c1fd6f36141274fe383e7ae5631c18",
+    "transformation": "none"
+  },
+  {
+    "published_path": "visualization/render_1IU4_pymol.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/render_1IU4_pymol.py",
+    "source_bytes": 8129,
+    "source_sha256": "a4023a397b06a24ac78dca370dfcb22288c1fd6f36141274fe383e7ae5631c18",
+    "published_sha256": "a4023a397b06a24ac78dca370dfcb22288c1fd6f36141274fe383e7ae5631c18",
+    "transformation": "none"
+  },
+  {
+    "published_path": "analysis/original/step01_rmsd.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/step01_rmsd.py",
+    "source_bytes": 4074,
+    "source_sha256": "a5df0d759aefa7182f69b58867aeaf80f5c23f516fd5ed1c41cb570544c22a60",
+    "published_sha256": "a5df0d759aefa7182f69b58867aeaf80f5c23f516fd5ed1c41cb570544c22a60",
+    "transformation": "none"
+  },
+  {
+    "published_path": "analysis/step01_rmsd.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/step01_rmsd.py",
+    "source_bytes": 4074,
+    "source_sha256": "a5df0d759aefa7182f69b58867aeaf80f5c23f516fd5ed1c41cb570544c22a60",
+    "published_sha256": "6da48466124e5e1efe604032062e1d40c1c7c9f6195202e54e9b945be8da59c1",
+    "transformation": "path portability edits"
+  },
+  {
+    "published_path": "analysis/original/step02_active_site_proximity.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/step02_active_site_proximity.py",
+    "source_bytes": 4063,
+    "source_sha256": "3336e95f16862d262afbc46e73b23e13ffb07ee279c09b6f4c8e6b07a50fb788",
+    "published_sha256": "3336e95f16862d262afbc46e73b23e13ffb07ee279c09b6f4c8e6b07a50fb788",
+    "transformation": "none"
+  },
+  {
+    "published_path": "analysis/step02_active_site_proximity.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/step02_active_site_proximity.py",
+    "source_bytes": 4063,
+    "source_sha256": "3336e95f16862d262afbc46e73b23e13ffb07ee279c09b6f4c8e6b07a50fb788",
+    "published_sha256": "99d741790036654fc0cab29bbe6b4fc8d77ed6b3c4aa05f8a36ad1d87911d166",
+    "transformation": "path portability edits"
+  },
+  {
+    "published_path": "analysis/original/step03_plot_timeseries.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/step03_plot_timeseries.py",
+    "source_bytes": 2284,
+    "source_sha256": "0b1258d3694fe1aeb1a62241af99144122a0b41cd156f732b3d093986db9f0dc",
+    "published_sha256": "0b1258d3694fe1aeb1a62241af99144122a0b41cd156f732b3d093986db9f0dc",
+    "transformation": "none"
+  },
+  {
+    "published_path": "analysis/step03_plot_timeseries.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/step03_plot_timeseries.py",
+    "source_bytes": 2284,
+    "source_sha256": "0b1258d3694fe1aeb1a62241af99144122a0b41cd156f732b3d093986db9f0dc",
+    "published_sha256": "944fe3f6bb4857e40eb2a4b15ad9e4d6f9fa6143f362ff1614b012a66d968409",
+    "transformation": "path portability edits"
+  },
+  {
+    "published_path": "analysis/original/step04_reactive_geometry.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/step04_reactive_geometry.py",
+    "source_bytes": 4603,
+    "source_sha256": "74e2f07e668f23a355e255b876161b363de0a7f18249e140efa9a86d2f56b5d4",
+    "published_sha256": "74e2f07e668f23a355e255b876161b363de0a7f18249e140efa9a86d2f56b5d4",
+    "transformation": "none"
+  },
+  {
+    "published_path": "analysis/step04_reactive_geometry.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/step04_reactive_geometry.py",
+    "source_bytes": 4603,
+    "source_sha256": "74e2f07e668f23a355e255b876161b363de0a7f18249e140efa9a86d2f56b5d4",
+    "published_sha256": "f9f5743304095691fb106da35c072cf08a68149a055caa3b66206d46be607877",
+    "transformation": "path portability edits"
+  },
+  {
+    "published_path": "analysis/original/step05_reactive_geometry_figure.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/step05_reactive_geometry_figure.py",
+    "source_bytes": 4834,
+    "source_sha256": "6081596c4cd545fd8281b2723433f080db8ba744dd12bd5be9ac6b1ce19f3b6d",
+    "published_sha256": "6081596c4cd545fd8281b2723433f080db8ba744dd12bd5be9ac6b1ce19f3b6d",
+    "transformation": "none"
+  },
+  {
+    "published_path": "analysis/step05_reactive_geometry_figure.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/step05_reactive_geometry_figure.py",
+    "source_bytes": 4834,
+    "source_sha256": "6081596c4cd545fd8281b2723433f080db8ba744dd12bd5be9ac6b1ce19f3b6d",
+    "published_sha256": "6081596c4cd545fd8281b2723433f080db8ba744dd12bd5be9ac6b1ce19f3b6d",
+    "transformation": "none"
+  },
+  {
+    "published_path": "analysis/original/step06_active_site_solvent.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/step06_active_site_solvent.py",
+    "source_bytes": 6471,
+    "source_sha256": "94b739c2e812675230864e880cebdfbea026ca74bbba7979777561ff32cc12ce",
+    "published_sha256": "94b739c2e812675230864e880cebdfbea026ca74bbba7979777561ff32cc12ce",
+    "transformation": "none"
+  },
+  {
+    "published_path": "analysis/step06_active_site_solvent.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/step06_active_site_solvent.py",
+    "source_bytes": 6471,
+    "source_sha256": "94b739c2e812675230864e880cebdfbea026ca74bbba7979777561ff32cc12ce",
+    "published_sha256": "9498a1544e8fedbad1204348ab5aa2577e746b1a400800bafb61f01bd384e43b",
+    "transformation": "path portability edits"
+  },
+  {
+    "published_path": "analysis/original/step07_state_conditioned_contacts.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/step07_state_conditioned_contacts.py",
+    "source_bytes": 8293,
+    "source_sha256": "dfd60ed2439444b6d0e45623346ff45629005349372a678b6267ef02ad0d43ca",
+    "published_sha256": "dfd60ed2439444b6d0e45623346ff45629005349372a678b6267ef02ad0d43ca",
+    "transformation": "none"
+  },
+  {
+    "published_path": "analysis/step07_state_conditioned_contacts.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/step07_state_conditioned_contacts.py",
+    "source_bytes": 8293,
+    "source_sha256": "dfd60ed2439444b6d0e45623346ff45629005349372a678b6267ef02ad0d43ca",
+    "published_sha256": "f7d77b0a559858d5ecb7876424e00a0f145c7e89b96f458a719de7d6a307c96b",
+    "transformation": "path portability edits"
+  },
+  {
+    "published_path": "analysis/original/step08_carbonyl_backbone_hbonds.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/step08_carbonyl_backbone_hbonds.py",
+    "source_bytes": 7147,
+    "source_sha256": "4866334e60b5c6e968bcf3e3e85cdff0f8a76a6fe38119fcf983a25648987c5b",
+    "published_sha256": "4866334e60b5c6e968bcf3e3e85cdff0f8a76a6fe38119fcf983a25648987c5b",
+    "transformation": "none"
+  },
+  {
+    "published_path": "analysis/step08_carbonyl_backbone_hbonds.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/step08_carbonyl_backbone_hbonds.py",
+    "source_bytes": 7147,
+    "source_sha256": "4866334e60b5c6e968bcf3e3e85cdff0f8a76a6fe38119fcf983a25648987c5b",
+    "published_sha256": "ad8ec159df6bb5e181c43371bb3d51c340fcc3cbb54d692720c77d8d7df21d10",
+    "transformation": "path portability edits"
+  },
+  {
+    "published_path": "analysis/original/step09_rmsf_representatives.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/step09_rmsf_representatives.py",
+    "source_bytes": 11897,
+    "source_sha256": "04f2e296b819ae52ffc4a0dfe24d388979607c4486cc7a7de62ccbd3349272b7",
+    "published_sha256": "04f2e296b819ae52ffc4a0dfe24d388979607c4486cc7a7de62ccbd3349272b7",
+    "transformation": "none"
+  },
+  {
+    "published_path": "analysis/step09_rmsf_representatives.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/step09_rmsf_representatives.py",
+    "source_bytes": 11897,
+    "source_sha256": "04f2e296b819ae52ffc4a0dfe24d388979607c4486cc7a7de62ccbd3349272b7",
+    "published_sha256": "330655a8b53ddd27f65e1bec82b19072192031dde63ef9ff633fee0a38d463c8",
+    "transformation": "path portability edits"
+  },
+  {
+    "published_path": "analysis/original/step10_energy_preflight.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/step10_energy_preflight.py",
+    "source_bytes": 2160,
+    "source_sha256": "ee296f2a8a6f1b82252c6cc514f876d5d8af6d84651daa4ebf684f4100c95fe6",
+    "published_sha256": "ee296f2a8a6f1b82252c6cc514f876d5d8af6d84651daa4ebf684f4100c95fe6",
+    "transformation": "none"
+  },
+  {
+    "published_path": "analysis/step10_energy_preflight.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/step10_energy_preflight.py",
+    "source_bytes": 2160,
+    "source_sha256": "ee296f2a8a6f1b82252c6cc514f876d5d8af6d84651daa4ebf684f4100c95fe6",
+    "published_sha256": "dd8adadc7052bdce727a7e2810d0ad44569e0cae49bd09bf9fb1ac3d09dbca0b",
+    "transformation": "path portability edits"
+  },
+  {
+    "published_path": "analysis/original/step11_desmond_energy_pilot.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/step11_desmond_energy_pilot.py",
+    "source_bytes": 7353,
+    "source_sha256": "fc640dee2bb0bacdc3423f28950a5adf06650b364038c168ecf7ec6701d570ad",
+    "published_sha256": "fc640dee2bb0bacdc3423f28950a5adf06650b364038c168ecf7ec6701d570ad",
+    "transformation": "none"
+  },
+  {
+    "published_path": "analysis/step11_desmond_energy_pilot.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/step11_desmond_energy_pilot.py",
+    "source_bytes": 7353,
+    "source_sha256": "fc640dee2bb0bacdc3423f28950a5adf06650b364038c168ecf7ec6701d570ad",
+    "published_sha256": "b41f5a3e37a91269c3b554ba2f83b8d5e0fa7d9585570a02254684810c54b344",
+    "transformation": "path portability edits"
+  },
+  {
+    "published_path": "analysis/original/step12_desmond_pair_energies.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/step12_desmond_pair_energies.py",
+    "source_bytes": 10591,
+    "source_sha256": "137a60f2d2deeb9d91db49e0981aa1e1eea7c53b2622af7d4df377299ed942c8",
+    "published_sha256": "137a60f2d2deeb9d91db49e0981aa1e1eea7c53b2622af7d4df377299ed942c8",
+    "transformation": "none"
+  },
+  {
+    "published_path": "analysis/step12_desmond_pair_energies.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/step12_desmond_pair_energies.py",
+    "source_bytes": 10591,
+    "source_sha256": "137a60f2d2deeb9d91db49e0981aa1e1eea7c53b2622af7d4df377299ed942c8",
+    "published_sha256": "eeb6ed6ba380219041328bba2352fcac93269e44ed4019446088d3a254c87347",
+    "transformation": "path portability edits"
+  },
+  {
+    "published_path": "analysis/original/step13_representative_atom_contacts.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/step13_representative_atom_contacts.py",
+    "source_bytes": 10707,
+    "source_sha256": "39f9f2aeeba674f8d5d114b8bf5e517ee04eb41d830b06f9f98da95c6df95638",
+    "published_sha256": "39f9f2aeeba674f8d5d114b8bf5e517ee04eb41d830b06f9f98da95c6df95638",
+    "transformation": "none"
+  },
+  {
+    "published_path": "analysis/step13_representative_atom_contacts.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/step13_representative_atom_contacts.py",
+    "source_bytes": 10707,
+    "source_sha256": "39f9f2aeeba674f8d5d114b8bf5e517ee04eb41d830b06f9f98da95c6df95638",
+    "published_sha256": "39f9f2aeeba674f8d5d114b8bf5e517ee04eb41d830b06f9f98da95c6df95638",
+    "transformation": "none"
+  },
+  {
+    "published_path": "visualization/ethanol20_125p4ns.pdb",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol20_125p4ns.pdb",
+    "source_bytes": 412185,
+    "source_sha256": "701b3aedde2c2c7060c8c881a8fef493c3577fc6c53798287a219a8d7c7b968b",
+    "published_sha256": "701b3aedde2c2c7060c8c881a8fef493c3577fc6c53798287a219a8d7c7b968b",
+    "transformation": "none"
+  },
+  {
+    "published_path": "visualization/ethanol50_141p8ns.pdb",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol50_141p8ns.pdb",
+    "source_bytes": 412185,
+    "source_sha256": "d33b139db418c372c877ebe79ccc1a6f49807039e6e4dc2b7a9cc2bb04d173ac",
+    "published_sha256": "d33b139db418c372c877ebe79ccc1a6f49807039e6e4dc2b7a9cc2bb04d173ac",
+    "transformation": "none"
+  },
+  {
+    "published_path": "visualization/water_116ns.pdb",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/water_116ns.pdb",
+    "source_bytes": 412185,
+    "source_sha256": "d01cccd26a2ad253370f12ffc78fcb403de7b5953a6e55517cd929b26257a185",
+    "published_sha256": "d01cccd26a2ad253370f12ffc78fcb403de7b5953a6e55517cd929b26257a185",
+    "transformation": "none"
+  },
+  {
+    "published_path": "visualization/sessions/ethanol20_contacts.pse.gz",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol20_contacts.pse",
+    "source_bytes": 4493591,
+    "source_sha256": "40cd72e6ac046bd591f499332b020627f7f8f0182564e16e846603cc352e1c27",
+    "published_sha256": "dd50ae43c58da7fa375fd4aa47d2e2c18bee0944dff73304451d14fef4329f12",
+    "transformation": "gzip compression, original bytes recoverable"
+  },
+  {
+    "published_path": "visualization/sessions/ethanol50_contacts.pse.gz",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol50_contacts.pse",
+    "source_bytes": 4497660,
+    "source_sha256": "3146fdb8aca5d2be58f1bee6321d506b3e483ea0c092b2250be10bf93fc91c4a",
+    "published_sha256": "e11554af137f317058b806bd1736902fcbc065bc81d2eb2ee7c7b515f0668e6b",
+    "transformation": "gzip compression, original bytes recoverable"
+  },
+  {
+    "published_path": "visualization/sessions/water_contacts.pse.gz",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/water_contacts.pse",
+    "source_bytes": 4572202,
+    "source_sha256": "6eb3c6b1ed45c76dff5ae13d3cc8291a40d5712f6910e963263b76799f19a5ee",
+    "published_sha256": "58109b58c8d216e406511d2853e7c90f177ec94da5f704ee8b6082998bc15607",
+    "transformation": "gzip compression, original bytes recoverable"
+  },
+  {
+    "published_path": "visualization/renders/ethanol20_contacts.png",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol20_contacts.png",
+    "source_bytes": 1212347,
+    "source_sha256": "d65a4f2e1ae60983bb58b04495261f6c1c7c123afa41ed0b5291594c91b3da2e",
+    "published_sha256": "d65a4f2e1ae60983bb58b04495261f6c1c7c123afa41ed0b5291594c91b3da2e",
+    "transformation": "none"
+  },
+  {
+    "published_path": "visualization/renders/ethanol50_contacts.png",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol50_contacts.png",
+    "source_bytes": 1207668,
+    "source_sha256": "9a215591a5c78d32ea6726424a1c864e8fd82f08de73a59e9070ce11975b9d7e",
+    "published_sha256": "9a215591a5c78d32ea6726424a1c864e8fd82f08de73a59e9070ce11975b9d7e",
+    "transformation": "none"
+  },
+  {
+    "published_path": "visualization/renders/water_contacts.png",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/water_contacts.png",
+    "source_bytes": 1008451,
+    "source_sha256": "9d7caf6027ea0fb55413050d5ca00209e87a84d0562d6d86f8c672b3f3866f89",
+    "published_sha256": "9d7caf6027ea0fb55413050d5ca00209e87a84d0562d6d86f8c672b3f3866f89",
+    "transformation": "none"
+  },
+  {
+    "published_path": "visualization/renders/ethanol20_overview.png",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol20_overview.png",
+    "source_bytes": 900312,
+    "source_sha256": "cbdeb78659af6bedb30a6141e90a978cf1d5a4501478dac0be6b5992dfd6b8a7",
+    "published_sha256": "cbdeb78659af6bedb30a6141e90a978cf1d5a4501478dac0be6b5992dfd6b8a7",
+    "transformation": "none"
+  },
+  {
+    "published_path": "visualization/renders/ethanol50_overview.png",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/ethanol50_overview.png",
+    "source_bytes": 882746,
+    "source_sha256": "4f9c53a9370ce6b206c89cbcbe8da49e15edf0d5ab7706c5aaa317de626b1a73",
+    "published_sha256": "4f9c53a9370ce6b206c89cbcbe8da49e15edf0d5ab7706c5aaa317de626b1a73",
+    "transformation": "none"
+  },
+  {
+    "published_path": "visualization/renders/water_overview.png",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/water_overview.png",
+    "source_bytes": 885891,
+    "source_sha256": "d6f32f4cc3508e5efa01c8bfe45d76c7e4d08f3e5941705a1212a795f940dfb4",
+    "published_sha256": "d6f32f4cc3508e5efa01c8bfe45d76c7e4d08f3e5941705a1212a795f940dfb4",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/representatives/ethanol20_early_near_0129.maegz",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/representatives/ethanol20_early_near_0129.maegz",
+    "source_bytes": 174740,
+    "source_sha256": "70bafb9cf1397aa87d97f69ed2cb4693e0c9d3d6409c5a27d3444fa2935bd048",
+    "published_sha256": "70bafb9cf1397aa87d97f69ed2cb4693e0c9d3d6409c5a27d3444fa2935bd048",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/representatives/ethanol20_late_far_0627.maegz",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/representatives/ethanol20_late_far_0627.maegz",
+    "source_bytes": 175686,
+    "source_sha256": "57a6e09469a66dc48c29cf3f0be1ac66c3a2327d244c11aaa6c7db16fbf73e37",
+    "published_sha256": "57a6e09469a66dc48c29cf3f0be1ac66c3a2327d244c11aaa6c7db16fbf73e37",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/representatives/ethanol20_late_near_0269.maegz",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/representatives/ethanol20_late_near_0269.maegz",
+    "source_bytes": 174674,
+    "source_sha256": "53ba225ecdf8accbc39fe7fa521ab8adb316405349d6225a8a9e9ce386e22bdd",
+    "published_sha256": "53ba225ecdf8accbc39fe7fa521ab8adb316405349d6225a8a9e9ce386e22bdd",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/representatives/ethanol50_early_near_0130.maegz",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/representatives/ethanol50_early_near_0130.maegz",
+    "source_bytes": 173530,
+    "source_sha256": "6e9a8d63badf11824b53ee8978c20cf532d3e8ed530a40fb65107e1ea75d3946",
+    "published_sha256": "6e9a8d63badf11824b53ee8978c20cf532d3e8ed530a40fb65107e1ea75d3946",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/representatives/ethanol50_late_far_0569.maegz",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/representatives/ethanol50_late_far_0569.maegz",
+    "source_bytes": 174014,
+    "source_sha256": "f8b03ffa030e5abd87f75c010a968c1c49cbba70771221783210f7cc0d0b0fa7",
+    "published_sha256": "f8b03ffa030e5abd87f75c010a968c1c49cbba70771221783210f7cc0d0b0fa7",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/representatives/ethanol50_late_near_0709.maegz",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/representatives/ethanol50_late_near_0709.maegz",
+    "source_bytes": 173257,
+    "source_sha256": "9bfdb9afa33bc65f81e9f1501c0c0b462b358acaef274bba19a33211d2239fcd",
+    "published_sha256": "9bfdb9afa33bc65f81e9f1501c0c0b462b358acaef274bba19a33211d2239fcd",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/representatives/representative_frames.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/representatives/representative_frames.csv",
+    "source_bytes": 2343,
+    "source_sha256": "04e2c18c10ea72e9bbd4fef6613a01b134a270ac4bc5916877213dc5c10f80bf",
+    "published_sha256": "04e2c18c10ea72e9bbd4fef6613a01b134a270ac4bc5916877213dc5c10f80bf",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/representatives/water_early_near_0006.maegz",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/representatives/water_early_near_0006.maegz",
+    "source_bytes": 264324,
+    "source_sha256": "f4980c948c89bdb125547aa141593017f223d46ed62a2637e3ebf394267110d0",
+    "published_sha256": "f4980c948c89bdb125547aa141593017f223d46ed62a2637e3ebf394267110d0",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/representatives/water_late_far_0746.maegz",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/representatives/water_late_far_0746.maegz",
+    "source_bytes": 265216,
+    "source_sha256": "1f5fe11e6a3e028e5be1eec723b77c72d7b637e68d3c94fabe3f11611376b0eb",
+    "published_sha256": "1f5fe11e6a3e028e5be1eec723b77c72d7b637e68d3c94fabe3f11611376b0eb",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/representatives/water_late_near_0580.maegz",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/representatives/water_late_near_0580.maegz",
+    "source_bytes": 265364,
+    "source_sha256": "2e541583f76cb3aa17b53e3ca4f4a9a62f56298e92f4102a48b34d22c740d05f",
+    "published_sha256": "2e541583f76cb3aa17b53e3ca4f4a9a62f56298e92f4102a48b34d22c740d05f",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/representatives/water_late_near_hbond_0580.maegz",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/representatives/water_late_near_hbond_0580.maegz",
+    "source_bytes": 265364,
+    "source_sha256": "2e541583f76cb3aa17b53e3ca4f4a9a62f56298e92f4102a48b34d22c740d05f",
+    "published_sha256": "2e541583f76cb3aa17b53e3ca4f4a9a62f56298e92f4102a48b34d22c740d05f",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/representative_contacts/all_atom_contacts_4p5A.csv",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/representative_contacts/all_atom_contacts_4p5A.csv",
+    "source_bytes": 35914,
+    "source_sha256": "f76bb520f2f027557cdc0b13278a0a0c69949be45811b638988a3b6c318e54c3",
+    "published_sha256": "f76bb520f2f027557cdc0b13278a0a0c69949be45811b638988a3b6c318e54c3",
+    "transformation": "none"
+  },
+  {
+    "published_path": "data/representative_contacts/representative_contact_summary.json",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/representative_contacts/representative_contact_summary.json",
+    "source_bytes": 12993,
+    "source_sha256": "df3a2b8d632f413b881bb1aa1eae57fe2a0dedcab916b92befecb760e23df55a",
+    "published_sha256": "df3a2b8d632f413b881bb1aa1eae57fe2a0dedcab916b92befecb760e23df55a",
+    "transformation": "none"
+  },
+  {
+    "published_path": "figures/supplementary/state_transition_atom_contacts.png",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/representative_contacts/state_transition_atom_contacts.png",
+    "source_bytes": 313274,
+    "source_sha256": "62aeef4a3b40f5f39c5dede5a7704d053a72ea115681a686d802ff1bf3a32801",
+    "published_sha256": "62aeef4a3b40f5f39c5dede5a7704d053a72ea115681a686d802ff1bf3a32801",
+    "transformation": "none"
+  },
+  {
+    "published_path": "figures/supplementary/state_transition_atom_contacts.svg",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/representative_contacts/state_transition_atom_contacts.svg",
+    "source_bytes": 75374,
+    "source_sha256": "61f8e64c401285020fdd1d6e1d23231efbf91eb760223a9f4aad239ac4d8e20d",
+    "published_sha256": "61f8e64c401285020fdd1d6e1d23231efbf91eb760223a9f4aad239ac4d8e20d",
+    "transformation": "none"
+  },
+  {
+    "published_path": "figures/supplementary/three_condition_atom_contacts.png",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/representative_contacts/three_condition_atom_contacts.png",
+    "source_bytes": 443803,
+    "source_sha256": "b384b5662b830e2bf2085dfb43f69c2132d18a49c169e148594b281d70f97663",
+    "published_sha256": "b384b5662b830e2bf2085dfb43f69c2132d18a49c169e148594b281d70f97663",
+    "transformation": "none"
+  },
+  {
+    "published_path": "figures/supplementary/three_condition_atom_contacts.svg",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/representative_contacts/three_condition_atom_contacts.svg",
+    "source_bytes": 106531,
+    "source_sha256": "b0de0f7372d86f73eb2a249613ec82304470bef07160fae9ab3a5d0772c20d63",
+    "published_sha256": "b0de0f7372d86f73eb2a249613ec82304470bef07160fae9ab3a5d0772c20d63",
+    "transformation": "none"
+  },
+  {
+    "published_path": "figures/supplementary/1IU4_three_states_2D_contacts.svg",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/1IU4_three_states_2D_contacts.svg",
+    "source_bytes": 124304,
+    "source_sha256": "a8339b434ac4956b5eff4e74c7b2b5bc7241228ae71adee53153ac530fcd754d",
+    "published_sha256": "a8339b434ac4956b5eff4e74c7b2b5bc7241228ae71adee53153ac530fcd754d",
+    "transformation": "none"
+  },
+  {
+    "published_path": "docs/archive/representative_structures_README.md",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/README.md",
+    "source_bytes": 3128,
+    "source_sha256": "6ec0047f0954c1d0158917e0cef9a188f1ab015955e3b2b4856615eebf541dd0",
+    "published_sha256": "6ec0047f0954c1d0158917e0cef9a188f1ab015955e3b2b4856615eebf541dd0",
+    "transformation": "none"
+  },
+  {
+    "published_path": "docs/archive/analysis_methods_and_legends.md",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/md_analysis_0_20_50/README_methods_and_legends.md",
+    "source_bytes": 5572,
+    "source_sha256": "83184da3e1d0ccd162fcdb13beaab4a4c2a68346742717f438c4ea8453b23901",
+    "published_sha256": "83184da3e1d0ccd162fcdb13beaab4a4c2a68346742717f438c4ea8453b23901",
+    "transformation": "none"
+  },
+  {
+    "published_path": "figures/Figure_1_RMSD_and_proximity.svg",
+    "source_path": "/storage/group/yjz5549/default/personal_website/enzyme_engineering/Figure_1_RMSD_and_proximity.svg",
+    "source_bytes": 228370,
+    "source_sha256": "b1ce5e77925feefcd1781bd572b13c9a54b4a1d1b7f895394c34bc4876765ee0",
+    "published_sha256": "b1ce5e77925feefcd1781bd572b13c9a54b4a1d1b7f895394c34bc4876765ee0",
+    "transformation": "none"
+  },
+  {
+    "published_path": "figures/Figure_2_CA_RMSF.svg",
+    "source_path": "/storage/group/yjz5549/default/personal_website/enzyme_engineering/Figure_2_CA_RMSF.svg",
+    "source_bytes": 51111,
+    "source_sha256": "647bc8ffadefb1f74d3b7c324362bf53eab9e828da1e99bbcebfba1767b0e3ca",
+    "published_sha256": "647bc8ffadefb1f74d3b7c324362bf53eab9e828da1e99bbcebfba1767b0e3ca",
+    "transformation": "none"
+  },
+  {
+    "published_path": "figures/Figure_3_Cys64_ZQG_geometry.svg",
+    "source_path": "/storage/group/yjz5549/default/personal_website/enzyme_engineering/Figure_3_Cys64_ZQG_geometry.svg",
+    "source_bytes": 161296,
+    "source_sha256": "d268c8136843e919c6d9e478e16639e317ca3ab29fa292eedd78b64df4be7c8e",
+    "published_sha256": "d268c8136843e919c6d9e478e16639e317ca3ab29fa292eedd78b64df4be7c8e",
+    "transformation": "none"
+  },
+  {
+    "published_path": "figures/Figure_4_State_and_solvation.svg",
+    "source_path": "/storage/group/yjz5549/default/personal_website/enzyme_engineering/Figure_4_State_and_solvation.svg",
+    "source_bytes": 178421,
+    "source_sha256": "46bb06ab7fec1e8adc69ea72681b1bff303235f03bb01240d4250ed254ad1c2a",
+    "published_sha256": "46bb06ab7fec1e8adc69ea72681b1bff303235f03bb01240d4250ed254ad1c2a",
+    "transformation": "none"
+  },
+  {
+    "published_path": "figures/Figure_5_Residue_ZQG_energies.svg",
+    "source_path": "/storage/group/yjz5549/default/personal_website/enzyme_engineering/Figure_5_Residue_ZQG_energies.svg",
+    "source_bytes": 35514,
+    "source_sha256": "64904e1d5756d2fefbd06fa3fac9ea3ecabbaa3babf70ccc83e2562d76bc343f",
+    "published_sha256": "64904e1d5756d2fefbd06fa3fac9ea3ecabbaa3babf70ccc83e2562d76bc343f",
+    "transformation": "none"
+  },
+  {
+    "published_path": "figures/Figure_6_Representative_conformations.svg",
+    "source_path": "/storage/group/yjz5549/default/personal_website/enzyme_engineering/Figure_6_Representative_conformations.svg",
+    "source_bytes": 3471701,
+    "source_sha256": "50eae4c485c01db86de2fbddfcafd4aa1019b06a4d4f315922eb72a163dfb06a",
+    "published_sha256": "50eae4c485c01db86de2fbddfcafd4aa1019b06a4d4f315922eb72a163dfb06a",
+    "transformation": "none"
+  },
+  {
+    "published_path": "docs/FIGURE_LEGENDS.md",
+    "source_path": "/storage/group/yjz5549/default/personal_website/enzyme_engineering/Figure_legends.md",
+    "source_bytes": 7045,
+    "source_sha256": "25e2a1d2ac36fd4567589e5eee9c711a2417ec463436c76408aaf1c510c96948",
+    "published_sha256": "25e2a1d2ac36fd4567589e5eee9c711a2417ec463436c76408aaf1c510c96948",
+    "transformation": "none"
+  },
+  {
+    "published_path": "docs/TG_ZQG_Methods_Han.docx",
+    "source_path": "/storage/group/yjz5549/default/personal_website/enzyme_engineering/TG_ZQG_Methods_Han.docx",
+    "source_bytes": 42681,
+    "source_sha256": "315740981a38b59c6c35b17e8ba2673e57da61cfe88c795792a121bc089dbf79",
+    "published_sha256": "315740981a38b59c6c35b17e8ba2673e57da61cfe88c795792a121bc089dbf79",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/preparation/expand_1IU4_EtOH20.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0_20Eoth/expand_1IU4_EtOH20.py",
+    "source_bytes": 13665,
+    "source_sha256": "6544d480e34281f410aa946199913a58d3bd7f55c75ae0fd047f4b14adb757f5",
+    "published_sha256": "6544d480e34281f410aa946199913a58d3bd7f55c75ae0fd047f4b14adb757f5",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/preparation/workflow_1IU4_EtOH20.py",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0_20Eoth/workflow_1IU4_EtOH20.py",
+    "source_bytes": 16247,
+    "source_sha256": "42aa5a45a035065155486a93ba48d9072594ec8fd48eb9f5806fe949b1524c76",
+    "published_sha256": "42aa5a45a035065155486a93ba48d9072594ec8fd48eb9f5806fe949b1524c76",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/preparation/prepare_1IU4_EtOH50.py",
+    "source_path": "/storage/group/yjz5549/default/personal_website/enzyme_engineering/prepare_1IU4_EtOH50.py",
+    "source_bytes": 11145,
+    "source_sha256": "36bca5748d6a89e3d983fb91a7feaaa1a1f945dc7b6b4563c22be592aaebb545",
+    "published_sha256": "36bca5748d6a89e3d983fb91a7feaaa1a1f945dc7b6b4563c22be592aaebb545",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/slurm/submit_1IU4_EtOH50_V100_fixed_paths.slurm",
+    "source_path": "/storage/group/yjz5549/default/personal_website/enzyme_engineering/submit_1IU4_EtOH50_V100_fixed_paths.slurm",
+    "source_bytes": 5491,
+    "source_sha256": "382c718f28afd44add768bc039121b2534c958cde19cc704588394f82ab25962",
+    "published_sha256": "382c718f28afd44add768bc039121b2534c958cde19cc704588394f82ab25962",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0/desmond_setup_1/desmond_setup_1.msj",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0/desmond_setup_1/desmond_setup_1.msj",
+    "source_bytes": 504,
+    "source_sha256": "4497bc176f8424c00feab177de17ab9e978db4c0d5402ba793da477fba365643",
+    "published_sha256": "4497bc176f8424c00feab177de17ab9e978db4c0d5402ba793da477fba365643",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0_20Eoth/disordered_system_1/disordered_system_1_system.msj",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0_20Eoth/disordered_system_1/disordered_system_1_system.msj",
+    "source_bytes": 260,
+    "source_sha256": "924559f182aaf2e8a5a0f49926444af5a71d075b5f57a74c006a85ee0f274419",
+    "published_sha256": "924559f182aaf2e8a5a0f49926444af5a71d075b5f57a74c006a85ee0f274419",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0_20Eoth/expanded_box_iI2MQA/expanded_mix_system.msj",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0_20Eoth/expanded_box_iI2MQA/expanded_mix_system.msj",
+    "source_bytes": 260,
+    "source_sha256": "924559f182aaf2e8a5a0f49926444af5a71d075b5f57a74c006a85ee0f274419",
+    "published_sha256": "924559f182aaf2e8a5a0f49926444af5a71d075b5f57a74c006a85ee0f274419",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0_20Eoth/expanded_box_iI2MQA/equilibration_large.msj",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0_20Eoth/expanded_box_iI2MQA/equilibration_large.msj",
+    "source_bytes": 2509,
+    "source_sha256": "5515e0cc3c7e30e3dfaa3230b8fe0be95b743848cf5ba09c4707f584204fa293",
+    "published_sha256": "5515e0cc3c7e30e3dfaa3230b8fe0be95b743848cf5ba09c4707f584204fa293",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0_20Eoth/expanded_box_iI2MQA/submit_production.slurm",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0_20Eoth/expanded_box_iI2MQA/submit_production.slurm",
+    "source_bytes": 2858,
+    "source_sha256": "6dc42f904fee94c501fadf457fe1c35d1335edefc7487046f5646c9c0d915c63",
+    "published_sha256": "6dc42f904fee94c501fadf457fe1c35d1335edefc7487046f5646c9c0d915c63",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0_20Eoth/1IU4_EtOH50/packing_55795227/mix50_system.msj",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0_20Eoth/1IU4_EtOH50/packing_55795227/mix50_system.msj",
+    "source_bytes": 260,
+    "source_sha256": "924559f182aaf2e8a5a0f49926444af5a71d075b5f57a74c006a85ee0f274419",
+    "published_sha256": "924559f182aaf2e8a5a0f49926444af5a71d075b5f57a74c006a85ee0f274419",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0_20Eoth/1IU4_EtOH50/pack_50.slurm",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0_20Eoth/1IU4_EtOH50/pack_50.slurm",
+    "source_bytes": 3546,
+    "source_sha256": "9b59cf599db460d2b6b845bee07d73a0ef2ea77efbb43c60d03328ae1785e6fd",
+    "published_sha256": "9b59cf599db460d2b6b845bee07d73a0ef2ea77efbb43c60d03328ae1785e6fd",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/equilibration_160ps.msj",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/equilibration_160ps.msj",
+    "source_bytes": 2144,
+    "source_sha256": "81edec62d15ddb6a4023b605b5c17460cc214a14b445c587090dc1a40d2fa385",
+    "published_sha256": "81edec62d15ddb6a4023b605b5c17460cc214a14b445c587090dc1a40d2fa385",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/npt_500ps.msj",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/npt_500ps.msj",
+    "source_bytes": 493,
+    "source_sha256": "b81c4e35f13e79c566d10cdd4a4cf38ec0c301bfc7bbd7e2fdf0fe9fa2e92a9d",
+    "published_sha256": "b81c4e35f13e79c566d10cdd4a4cf38ec0c301bfc7bbd7e2fdf0fe9fa2e92a9d",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0/desmond_md_job_4/1IU4_md_batch-out.cfg",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0/desmond_md_job_4/1IU4_md_batch-out.cfg",
+    "source_bytes": 9788,
+    "source_sha256": "bc632461b3d781bdd53ac8b1c5691976ac62519dfef15e167c6b89c741e156b3",
+    "published_sha256": "bc632461b3d781bdd53ac8b1c5691976ac62519dfef15e167c6b89c741e156b3",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0/desmond_md_job_4/1IU4_md_batch.cpt.cfg",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0/desmond_md_job_4/1IU4_md_batch.cpt.cfg",
+    "source_bytes": 24659,
+    "source_sha256": "0552125aca8b57799a71d7f4fd5f4327e0c46c949fc3780bf0a70e4d09fca1ca",
+    "published_sha256": "0552125aca8b57799a71d7f4fd5f4327e0c46c949fc3780bf0a70e4d09fca1ca",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0/desmond_md_job_4/1IU4_md_batch_multisim.log",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0/desmond_md_job_4/1IU4_md_batch_multisim.log",
+    "source_bytes": 9260,
+    "source_sha256": "59d7692c51eb58de9f16f754872529575caae7c069629d17b28d395a7ed5c82b",
+    "published_sha256": "59d7692c51eb58de9f16f754872529575caae7c069629d17b28d395a7ed5c82b",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0/desmond_md_job_4/desmond_md_job_4.cfg",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0/desmond_md_job_4/desmond_md_job_4.cfg",
+    "source_bytes": 1515,
+    "source_sha256": "815eca63c37e238689dc11d2dd172c22f6a87ad062044dba5237acbe43e215a5",
+    "published_sha256": "815eca63c37e238689dc11d2dd172c22f6a87ad062044dba5237acbe43e215a5",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0/desmond_md_job_4/desmond_md_job_4.msj",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0/desmond_md_job_4/desmond_md_job_4.msj",
+    "source_bytes": 2960,
+    "source_sha256": "3da2545b7f36c92786063e912448ac91fd9aec9928c6e37af82f1f2bbda31d57",
+    "published_sha256": "3da2545b7f36c92786063e912448ac91fd9aec9928c6e37af82f1f2bbda31d57",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0/desmond_md_job_4/submit_1IU4_md.slurm",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0/desmond_md_job_4/submit_1IU4_md.slurm",
+    "source_bytes": 1887,
+    "source_sha256": "e0938caffa4e8097464ddd3b52aebb72329a14b64c2e8a83e59da155f066bd0c",
+    "published_sha256": "e0938caffa4e8097464ddd3b52aebb72329a14b64c2e8a83e59da155f066bd0c",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0/desmond_md_job_4/1IU4_md_batch-in.cms.gz",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0/desmond_md_job_4/1IU4_md_batch-in.cms",
+    "source_bytes": 21053756,
+    "source_sha256": "b82a03c76a43c6f18d181112463d9e97970fd47982d37693333357b7cc37d910",
+    "published_sha256": "ab5a35b083acc027ad560183eda4b4e4fe2e4191714e2cddb8780e96ed2781ef",
+    "transformation": "gzip compression, original bytes recoverable"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0/desmond_md_job_4/1IU4_md_batch-out.cms.gz",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0/desmond_md_job_4/1IU4_md_batch-out.cms",
+    "source_bytes": 21334777,
+    "source_sha256": "bcd9ecd3a1a331ce580dbc4a83d7ccf492658ed4511a2db9701dd62e2f3d88e3",
+    "published_sha256": "8897d5f1b90a6776aad2e09b0a2e26982222d9b02590a87572e16eea84fad623",
+    "transformation": "gzip compression, original bytes recoverable"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/1IU4_EtOH20_md_55774175-out.cfg",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/1IU4_EtOH20_md_55774175-out.cfg",
+    "source_bytes": 9798,
+    "source_sha256": "35db16839155e7d1cfd3d6e451bc6a48c5c9e2b79bd6f9de496b6fa8b5af2470",
+    "published_sha256": "35db16839155e7d1cfd3d6e451bc6a48c5c9e2b79bd6f9de496b6fa8b5af2470",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/1IU4_EtOH20_md_55774175.cpt.cfg",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/1IU4_EtOH20_md_55774175.cpt.cfg",
+    "source_bytes": 24697,
+    "source_sha256": "9acfd70affc6df8941a947cafda175b7652bf5397cc8b34c6fb9135e54f72796",
+    "published_sha256": "9acfd70affc6df8941a947cafda175b7652bf5397cc8b34c6fb9135e54f72796",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/1IU4_EtOH20_md_55774175_multisim.log",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/1IU4_EtOH20_md_55774175_multisim.log",
+    "source_bytes": 3037,
+    "source_sha256": "749fca9e058711a94dc91249021d81d8b9aa1cd9837efddebc6da8fbd58cf416",
+    "published_sha256": "749fca9e058711a94dc91249021d81d8b9aa1cd9837efddebc6da8fbd58cf416",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/production.cfg",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/production.cfg",
+    "source_bytes": 1434,
+    "source_sha256": "684215fad68c31c1c13e139a92fdbe5e113cbaf54087863c9cb6ff1009892021",
+    "published_sha256": "684215fad68c31c1c13e139a92fdbe5e113cbaf54087863c9cb6ff1009892021",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/production.msj",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/production.msj",
+    "source_bytes": 150,
+    "source_sha256": "50220aff48a3f4196daa52fde12b32ba277b146e5d2f4cf7ee558b48a5d64370",
+    "published_sha256": "50220aff48a3f4196daa52fde12b32ba277b146e5d2f4cf7ee558b48a5d64370",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/settings.json",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/settings.json",
+    "source_bytes": 262,
+    "source_sha256": "4d07c5d5442f4ac36ce06c8e2f55b14c5e458092e82be6355a32690596dc710f",
+    "published_sha256": "4d07c5d5442f4ac36ce06c8e2f55b14c5e458092e82be6355a32690596dc710f",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/1IU4_EtOH20_md_55774175-in.cms.gz",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/1IU4_EtOH20_md_55774175-in.cms",
+    "source_bytes": 29221961,
+    "source_sha256": "be0bb2c9aefbc074d10e3d32c2168aea7bf3a6424bf89e4324655eb1e3cb6464",
+    "published_sha256": "8d01e334c358579821a3d0c30d37fea9665f0bb4b0ec2565205aa62959b811a8",
+    "transformation": "gzip compression, original bytes recoverable"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/1IU4_EtOH20_md_55774175-out.cms.gz",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/1IU4_EtOH20_md_55774175-out.cms",
+    "source_bytes": 29865513,
+    "source_sha256": "56663aeceece992da2155c20c7510893d0ed066ddff4e9ec5895dfc8948586a0",
+    "published_sha256": "073c45f9159c9dd39d6401cbf1a2489877114930669cab94bb80825dfcd77c8f",
+    "transformation": "gzip compression, original bytes recoverable"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/1IU4_EtOH50_md_55831542-out.cfg",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/1IU4_EtOH50_md_55831542-out.cfg",
+    "source_bytes": 9799,
+    "source_sha256": "e8029a71c5cb171721194e6648b55a3c70c18c80926e5e85108d56f2c30ee3de",
+    "published_sha256": "e8029a71c5cb171721194e6648b55a3c70c18c80926e5e85108d56f2c30ee3de",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/1IU4_EtOH50_md_55831542.cpt.cfg",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/1IU4_EtOH50_md_55831542.cpt.cfg",
+    "source_bytes": 24699,
+    "source_sha256": "1c746018a98292bbf193459e76fb1bac77bdac435173ba37292046a2b1c08da3",
+    "published_sha256": "1c746018a98292bbf193459e76fb1bac77bdac435173ba37292046a2b1c08da3",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/1IU4_EtOH50_md_55831542_multisim.log",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/1IU4_EtOH50_md_55831542_multisim.log",
+    "source_bytes": 3065,
+    "source_sha256": "da6c7c614b4c23e04aabfc91000844d69655dfc1e8fcf48fe0b54d03d7d4b043",
+    "published_sha256": "da6c7c614b4c23e04aabfc91000844d69655dfc1e8fcf48fe0b54d03d7d4b043",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/production.cfg",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/production.cfg",
+    "source_bytes": 1434,
+    "source_sha256": "684215fad68c31c1c13e139a92fdbe5e113cbaf54087863c9cb6ff1009892021",
+    "published_sha256": "684215fad68c31c1c13e139a92fdbe5e113cbaf54087863c9cb6ff1009892021",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/production.msj",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/production.msj",
+    "source_bytes": 150,
+    "source_sha256": "50220aff48a3f4196daa52fde12b32ba277b146e5d2f4cf7ee558b48a5d64370",
+    "published_sha256": "50220aff48a3f4196daa52fde12b32ba277b146e5d2f4cf7ee558b48a5d64370",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/settings.json",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/settings.json",
+    "source_bytes": 262,
+    "source_sha256": "4d07c5d5442f4ac36ce06c8e2f55b14c5e458092e82be6355a32690596dc710f",
+    "published_sha256": "4d07c5d5442f4ac36ce06c8e2f55b14c5e458092e82be6355a32690596dc710f",
+    "transformation": "none"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/1IU4_EtOH50_md_55831542-in.cms.gz",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/1IU4_EtOH50_md_55831542-in.cms",
+    "source_bytes": 28092618,
+    "source_sha256": "7d5a22330b87b2a52940798ded833e54fff72ab152e766868c74ff826201b9ba",
+    "published_sha256": "aaefb6eb61e6a0dca3e2e3584d1b2dec15344e5d473167282405407a5f285f86",
+    "transformation": "gzip compression, original bytes recoverable"
+  },
+  {
+    "published_path": "simulation/raw_layout/1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/1IU4_EtOH50_md_55831542-out.cms.gz",
+    "source_path": "/storage/group/yjz5549/default/HanLiu/prep_files/yaml/1IU4/boltz_results_1IU4/predictions/1IU4/1IU4_0_20Eoth/1IU4_EtOH50/neutralization_50/npt_500ps/production_55831542/1IU4_EtOH50_md_55831542-out.cms",
+    "source_bytes": 28777470,
+    "source_sha256": "3c2cd3ade7676e53c1871e2b9a1b212fae12804d0bb0a60d7d5887bb959bbab3",
+    "published_sha256": "ee3ea9bd1b7deafc3add40c5bc70c64e8731dcfc8bba0a15ffd37fa4b82ce314",
+    "transformation": "gzip compression, original bytes recoverable"
+  }
+]

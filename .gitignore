@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+reproduced/
+analysis_work/
+restored_simulation/
+visualization/pymol_figures/
+*.dtr
+*_trj/
+.DS_Store

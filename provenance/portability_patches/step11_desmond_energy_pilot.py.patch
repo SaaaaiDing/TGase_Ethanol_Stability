@@ -1,0 +1,11 @@
+--- analysis/original/step11_desmond_energy_pilot.py
++++ analysis/step11_desmond_energy_pilot.py
+@@ -18,7 +18,7 @@
+ args = parser.parse_args()
+ 
+ analysis_dir = Path(os.environ["ANALYSIS_DIR"]).expanduser().resolve()
+-root = analysis_dir.parent
++root = Path(os.environ.get("TGASE_DATA_ROOT", str(analysis_dir.parent))).expanduser().resolve()
+ systems = {
+     "ethanol20": (
+         root / "1IU4_0_20Eoth/expanded_box_iI2MQA/production_55774175/1IU4_EtOH20_md_55774175-out.cms",
